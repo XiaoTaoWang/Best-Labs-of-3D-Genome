@@ -1,0 +1,89 @@
+*Nodes
+id*int	label*string	number_of_authored_works*int	times_cited*int
+22	"Zhong, Sl"	1	0
+30	"Li, Ph"	1	0
+74	"Li, Gl"	18	1593
+76	"Zhang, Mq"	8	254
+77	"Chen, Y"	1	0
+80	"Chen, M"	2	13
+93	"Li, C"	3	1
+164	"Zhang, Hy"	6	43
+167	"Yang, Qy"	4	18
+170	"Ma, Bg"	1	7
+318	"Xie, W"	4	245
+319	"Zhang, Y"	2	8
+394	"Zeng, Jy"	2	6
+585	"Liu, J"	1	7
+598	"Huang, Xx"	1	7
+633	"Wang, Yl"	2	176
+639	"Wu, Q"	4	241
+668	"Tang, Bh"	1	0
+741	"Ma, Wy"	1	1
+1108	"Gao, Yq"	1	0
+1301	"Zhu, J"	1	16
+1636	"Zhang, Xl"	1	8
+1706	"Peng, C"	3	21
+1839	"Zhao, Zh"	3	18
+1928	"Fu, Sb"	1	9
+1954	"Niu, Hb"	1	1
+1955	"Ni, Yx"	1	1
+2031	"Dai, Zm"	2	19
+2211	"Han, Zg"	1	1
+2246	"Song, Xy"	1	5
+2459	"Wang, Ca"	1	8
+2460	"Ding, Gh"	2	19
+2542	"Liu, Gh"	1	3
+2841	"Zhong, Y"	1	4
+2848	"Nan, P"	1	4
+2939	"Yu, Dk"	1	1
+2960	"Zhang, Zh"	2	2
+3064	"Xiong, Yy"	1	4
+3121	"Wen, B"	1	3
+3142	"Qiao, J"	1	1
+3317	"Zhou, F"	1	4
+3711	"Ren, Lc"	2	15
+3766	"Zhang, Cg"	1	5
+3769	"Chen, Hb"	1	5
+3770	"Bo, Xc"	1	5
+3801	"Zheng, J"	1	7
+3919	"Wei, J"	1	4
+4873	"Wang, L"	3	58
+5036	"Hu, Jf"	3	221
+5196	"Li, Gh"	3	246
+5799	"Liu, Dp"	3	32
+6165	"Yan, J"	1	3
+6282	"Gao, Cj"	1	25
+*UndirectedEdges
+source*int	target*int	number_of_coauthored_works*int	weight*int
+22	30	1	1
+76	77	1	1
+164	167	3	3
+164	170	1	1
+167	170	1	1
+74	80	1	1
+80	164	1	1
+74	164	1	1
+318	585	1	1
+585	598	1	1
+318	598	1	1
+633	639	1	1
+76	318	1	1
+318	394	1	1
+76	394	1	1
+164	1706	2	2
+76	639	1	1
+319	1839	1	1
+1954	1955	1	1
+76	1954	1	1
+76	1955	1	1
+167	1636	1	1
+319	2246	1	1
+2459	2460	1	1
+2841	2848	1	1
+2031	3064	1	1
+76	3317	1	1
+1839	3711	2	2
+3766	3769	1	1
+3766	3770	1	1
+3769	3770	1	1
+4873	5799	2	2
