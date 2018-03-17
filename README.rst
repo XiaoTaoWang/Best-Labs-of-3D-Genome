@@ -21,5 +21,5 @@ lab website, I chose the most relevant 16 labs ...
 
 Here's the co-authored network of these 68 researchers:
 
-.. image:: ./networks/best-PI-network.pdf
+.. image:: ./networks/best-PI-network.png
         :align: center
