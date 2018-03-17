@@ -16,15 +16,12 @@ Finally, I collected near 2000 publication records. And from this pool, I extrac
 weighted network with nodes as corresponding authors and edge weights as the number of times
 those authors co-wrote a paper.
 
-From this network, I selected the most influential 68 researchers and by investigating their
-lab website, I chose the most relevant 16 labs ...
-
-Here's the co-authored network of these 68 researchers:
+Here's the co-authored network of 68 most influential researchers:
 
 .. image:: ./networks/best-PI-network.png
         :align: center
 
-The name (abbr.) of each researcher is labeled on the lower right region of corresponding circle.
+The name (abbr.) of each researcher is labeled on the lower right of corresponding circle.
 According to the network, the most influential researcher in this area is Job Dekker, the initiator
 of chromosome conformation capture (3C). And it's interesting to see this network is highly modularized
 and locally centralized.
@@ -39,7 +36,8 @@ which severely limits their impact level.
 
 Another important factor I think we should consider is the research funding a PI has. There
 are NSF(National Science Foundation)/NIH(National Institutes of Health)/ERC(European Research
-Council) records I collected for several PIs. Hope this can help you.
+Council) records I collected for several PIs under the folder ``Data/research-funding``. Hope
+this can help you.
 
 Website and contact information
 ===============================
