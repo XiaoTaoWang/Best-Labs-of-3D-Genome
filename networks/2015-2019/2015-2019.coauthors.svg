@@ -1,0 +1,3006 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="text/ecmascript"
+   width="1583"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-661 -450 1583 1447"
+   height="1447"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg869"
+   sodipodi:docname="2015-2019.coauthors.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs873">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3951">
+      <stop
+         style="stop-color:#fef0d9;stop-opacity:1"
+         offset="0"
+         id="stop3947" />
+      <stop
+         style="stop-color:#b30000;stop-opacity:1"
+         offset="1"
+         id="stop3949" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3951"
+       id="linearGradient3953"
+       x1="316.48975"
+       y1="272.04026"
+       x2="431.40508"
+       y2="272.04026"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-30.40509,43.471995)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1593"
+     inkscape:window-height="904"
+     id="namedview871"
+     showgrid="true"
+     inkscape:zoom="0.49841605"
+     inkscape:cx="219.18289"
+     inkscape:cy="647.67422"
+     inkscape:window-x="-4"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg869">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3973" />
+  </sodipodi:namedview>
+  <g
+     id="g5888"
+     inkscape:export-xdpi="200"
+     inkscape:export-ydpi="200">
+    <g
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       id="g4463">
+      <g
+         id="g3905"
+         transform="translate(-287.69205,313.88917)">
+        <g
+           id="edges">
+          <path
+             id="path2595"
+             class="id_Nicodemi,_M id_Pombo,_A"
+             d="M 133.03531,78.175835 63.254272,45.123859"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:7;stroke-opacity:1" />
+          <path
+             id="path2597"
+             class="id_Nicodemi,_M id_Aiden,_EL"
+             d="M 133.03531,78.175835 -71.194817,128.54011"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2599"
+             class="id_Nicodemi,_M id_Hughes,_JR"
+             d="M 133.03531,78.175835 272.62939,-72.751083"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2601"
+             class="id_Nicodemi,_M id_Duan,_ZJ"
+             d="M 133.03531,78.175835 -173.0292,67.302002"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2603"
+             class="id_Nicodemi,_M id_Belmont,_AS"
+             d="M 133.03531,78.175835 -78.194008,-201.8455"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2605"
+             class="id_Nicodemi,_M id_Yue,_F"
+             d="M 133.03531,78.175835 -172.88686,-20.219297"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2607"
+             class="id_Nicodemi,_M id_Hu,_M"
+             d="M 133.03531,78.175835 -158.82603,-102.24636"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2609"
+             class="id_Nicodemi,_M id_Heard,_E"
+             d="m 133.03531,78.175835 129.31961,6.951942"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2611"
+             class="id_Nicodemi,_M id_Tanay,_A"
+             d="M 133.03531,78.175835 -19.489603,-11.878632"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2613"
+             class="id_Nicodemi,_M id_Darzacq,_X"
+             d="M 133.03531,78.175835 -88.474953,-128.15459"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2615"
+             class="id_Nicodemi,_M id_Alber,_F"
+             d="M 133.03531,78.175835 -153.02649,-182.30746"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2617"
+             class="id_Nicodemi,_M id_Cavalli,_G"
+             d="M 133.03531,78.175835 354.26117,133.53784"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2619"
+             class="id_Nicodemi,_M id_Misteli,_T"
+             d="M 133.03531,78.175835 -33.314499,-93.891464"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2621"
+             class="id_Nicodemi,_M id_Marti-Renom,_MA"
+             d="M 133.03531,78.175835 291.32669,161.16978"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2623"
+             class="id_Nicodemi,_M id_Giorgetti,_L"
+             d="M 133.03531,78.175835 304.82654,46.694317"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2625"
+             class="id_Nicodemi,_M id_Ren,_B"
+             d="M 133.03531,78.175835 -240.96927,-109.40168"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2627"
+             class="id_Nicodemi,_M id_Bickmore,_WA"
+             d="m 133.03531,78.175835 85.41934,59.023385"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2629"
+             class="id_Nicodemi,_M id_Ruan,_YJ"
+             d="M 133.03531,78.175835 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2631"
+             class="id_Nicodemi,_M id_Shendure,_J"
+             d="M 133.03531,78.175835 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2633"
+             class="id_Nicodemi,_M id_van_Steensel,_B"
+             d="M 133.03531,78.175835 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2635"
+             class="id_Nicodemi,_M id_Ellenberg,_J"
+             d="M 133.03531,78.175835 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2637"
+             class="id_Nicodemi,_M id_Mundlos,_S"
+             d="M 133.03531,78.175835 -58.027752,216.92206"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2639"
+             class="id_Nicodemi,_M id_Nagano,_T"
+             d="M 133.03531,78.175835 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2641"
+             class="id_Nicodemi,_M id_Guttman,_M"
+             d="M 133.03531,78.175835 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2643"
+             class="id_Nicodemi,_M id_Mirny,_LA"
+             d="M 133.03531,78.175835 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2645"
+             class="id_Nicodemi,_M id_Fraser,_P"
+             d="M 133.03531,78.175835 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2647"
+             class="id_Nicodemi,_M id_Gasser,_SM"
+             d="M 133.03531,78.175835 333.70343,212.01434"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2649"
+             class="id_Nicodemi,_M id_Dekker,_J"
+             d="M 133.03531,78.175835 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2651"
+             class="id_Pombo,_A id_Aiden,_EL"
+             d="M 63.254272,45.123859 -71.194817,128.54011"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2653"
+             class="id_Pombo,_A id_Duan,_ZJ"
+             d="M 63.254272,45.123859 -173.0292,67.302002"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2655"
+             class="id_Pombo,_A id_Belmont,_AS"
+             d="M 63.254272,45.123859 -78.194008,-201.8455"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2657"
+             class="id_Pombo,_A id_Yue,_F"
+             d="M 63.254272,45.123859 -172.88686,-20.219297"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2659"
+             class="id_Pombo,_A id_Hu,_M"
+             d="M 63.254272,45.123859 -158.82603,-102.24636"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2661"
+             class="id_Pombo,_A id_Heard,_E"
+             d="M 63.254272,45.123859 262.35492,85.127777"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2663"
+             class="id_Pombo,_A id_Tanay,_A"
+             d="M 63.254272,45.123859 -19.489603,-11.878632"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2665"
+             class="id_Pombo,_A id_Darzacq,_X"
+             d="M 63.254272,45.123859 -88.474953,-128.15459"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2667"
+             class="id_Pombo,_A id_Alber,_F"
+             d="M 63.254272,45.123859 -153.02649,-182.30746"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2669"
+             class="id_Pombo,_A id_Cavalli,_G"
+             d="M 63.254272,45.123859 354.26117,133.53784"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2671"
+             class="id_Pombo,_A id_Misteli,_T"
+             d="M 63.254272,45.123859 -33.314499,-93.891464"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2673"
+             class="id_Pombo,_A id_Marti-Renom,_MA"
+             d="M 63.254272,45.123859 291.32669,161.16978"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2675"
+             class="id_Pombo,_A id_Giorgetti,_L"
+             d="M 63.254272,45.123859 304.82654,46.694317"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2677"
+             class="id_Pombo,_A id_Ren,_B"
+             d="M 63.254272,45.123859 -240.96927,-109.40168"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2679"
+             class="id_Pombo,_A id_Bickmore,_WA"
+             d="M 63.254272,45.123859 218.45465,137.19922"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2681"
+             class="id_Pombo,_A id_Ruan,_YJ"
+             d="M 63.254272,45.123859 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2683"
+             class="id_Pombo,_A id_Shendure,_J"
+             d="M 63.254272,45.123859 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2685"
+             class="id_Pombo,_A id_van_Steensel,_B"
+             d="M 63.254272,45.123859 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2687"
+             class="id_Pombo,_A id_Ellenberg,_J"
+             d="M 63.254272,45.123859 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2689"
+             class="id_Pombo,_A id_Mundlos,_S"
+             d="M 63.254272,45.123859 -58.027752,216.92206"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2691"
+             class="id_Pombo,_A id_Nagano,_T"
+             d="M 63.254272,45.123859 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2693"
+             class="id_Pombo,_A id_Guttman,_M"
+             d="M 63.254272,45.123859 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2695"
+             class="id_Pombo,_A id_Mirny,_LA"
+             d="M 63.254272,45.123859 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2697"
+             class="id_Pombo,_A id_Fraser,_P"
+             d="M 63.254272,45.123859 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2699"
+             class="id_Pombo,_A id_Gasser,_SM"
+             d="M 63.254272,45.123859 333.70343,212.01434"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2701"
+             class="id_Pombo,_A id_Dekker,_J"
+             d="M 63.254272,45.123859 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2703"
+             class="id_Aiden,_EL id_Duan,_ZJ"
+             d="M -71.194817,128.54011 -173.0292,67.302002"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2705"
+             class="id_Aiden,_EL id_Schlick,_T"
+             d="M -71.194817,128.54011 -175.41162,324.54385"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2707"
+             class="id_Aiden,_EL id_Belmont,_AS"
+             d="M -71.194817,128.54011 -78.194008,-201.8455"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2709"
+             class="id_Aiden,_EL id_Yue,_F"
+             d="M -71.194817,128.54011 -172.88686,-20.219297"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2711"
+             class="id_Aiden,_EL id_Hu,_M"
+             d="M -71.194817,128.54011 -158.82603,-102.24636"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2713"
+             class="id_Aiden,_EL id_Chang,_HY"
+             d="M -71.194817,128.54011 233.83165,258.21286"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2715"
+             class="id_Aiden,_EL id_Tanay,_A"
+             d="M -71.194817,128.54011 -19.489603,-11.878632"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2717"
+             class="id_Aiden,_EL id_Darzacq,_X"
+             d="m -71.194817,128.54011 -17.280136,-256.6947"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2719"
+             class="id_Aiden,_EL id_Alber,_F"
+             d="M -71.194817,128.54011 -153.02649,-182.30746"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2721"
+             class="id_Aiden,_EL id_Regev,_A"
+             d="M -71.194817,128.54011 240.15984,343.17233"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2723"
+             class="id_Aiden,_EL id_Misteli,_T"
+             d="M -71.194817,128.54011 -33.314499,-93.891464"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2725"
+             class="id_Aiden,_EL id_Marti-Renom,_MA"
+             d="M -71.194817,128.54011 291.32669,161.16978"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2727"
+             class="id_Aiden,_EL id_Ren,_B"
+             d="M -71.194817,128.54011 -240.96927,-109.40168"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2729"
+             class="id_Aiden,_EL id_Ruan,_YJ"
+             d="M -71.194817,128.54011 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2731"
+             class="id_Aiden,_EL id_Shendure,_J"
+             d="M -71.194817,128.54011 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2733"
+             class="id_Aiden,_EL id_van_Steensel,_B"
+             d="M -71.194817,128.54011 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2735"
+             class="id_Aiden,_EL id_Ellenberg,_J"
+             d="M -71.194817,128.54011 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2737"
+             class="id_Aiden,_EL id_Nagano,_T"
+             d="M -71.194817,128.54011 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2739"
+             class="id_Aiden,_EL id_Guttman,_M"
+             d="M -71.194817,128.54011 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2741"
+             class="id_Aiden,_EL id_Mirny,_LA"
+             d="M -71.194817,128.54011 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2743"
+             class="id_Aiden,_EL id_Fraser,_P"
+             d="M -71.194817,128.54011 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2745"
+             class="id_Aiden,_EL id_Dekker,_J"
+             d="M -71.194817,128.54011 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2747"
+             class="id_Hughes,_JR id_Heard,_E"
+             d="M 272.62939,-72.751083 262.35492,85.127777"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2749"
+             class="id_Hughes,_JR id_de_Wit,_E"
+             d="m 272.62939,-72.751083 54.50416,19.158741"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2751"
+             class="id_Hughes,_JR id_Giorgetti,_L"
+             d="m 272.62939,-72.751083 32.19715,119.4454"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2753"
+             class="id_Hughes,_JR id_Blobel,_GA"
+             d="m 272.62939,-72.751083 4.86771,-98.918627"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2755"
+             class="id_Hughes,_JR id_Guttman,_M"
+             d="M 272.62939,-72.751083 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2757"
+             class="id_Hughes,_JR id_Dekker,_J"
+             d="M 272.62939,-72.751083 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2759"
+             class="id_Duan,_ZJ id_Belmont,_AS"
+             d="M -173.0292,67.302002 -78.194008,-201.8455"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2761"
+             class="id_Duan,_ZJ id_Yue,_F"
+             d="m -173.0292,67.302002 0.14234,-87.521299"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2763"
+             class="id_Duan,_ZJ id_Hu,_M"
+             d="m -173.0292,67.302002 14.20317,-169.548362"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2765"
+             class="id_Duan,_ZJ id_Tanay,_A"
+             d="M -173.0292,67.302002 -19.489603,-11.878632"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2767"
+             class="id_Duan,_ZJ id_Darzacq,_X"
+             d="M -173.0292,67.302002 -88.474953,-128.15459"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2769"
+             class="id_Duan,_ZJ id_Alber,_F"
+             d="m -173.0292,67.302002 20.00271,-249.609462"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2771"
+             class="id_Duan,_ZJ id_Ay,_F"
+             d="m -173.0292,67.302002 -14.07232,79.485058"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2773"
+             class="id_Duan,_ZJ id_Misteli,_T"
+             d="M -173.0292,67.302002 -33.314499,-93.891464"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2775"
+             class="id_Duan,_ZJ id_Ren,_B"
+             d="M -173.0292,67.302002 -240.96927,-109.40168"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2777"
+             class="id_Duan,_ZJ id_Ruan,_YJ"
+             d="M -173.0292,67.302002 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2779"
+             class="id_Duan,_ZJ id_Shendure,_J"
+             d="M -173.0292,67.302002 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:7;stroke-opacity:1" />
+          <path
+             id="path2781"
+             class="id_Duan,_ZJ id_van_Steensel,_B"
+             d="M -173.0292,67.302002 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2783"
+             class="id_Duan,_ZJ id_Ellenberg,_J"
+             d="M -173.0292,67.302002 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2785"
+             class="id_Duan,_ZJ id_Nagano,_T"
+             d="M -173.0292,67.302002 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2787"
+             class="id_Duan,_ZJ id_Guttman,_M"
+             d="M -173.0292,67.302002 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2789"
+             class="id_Duan,_ZJ id_Noble,_WS"
+             d="m -173.0292,67.302002 -63.63404,53.541958"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:5;stroke-opacity:1" />
+          <path
+             id="path2791"
+             class="id_Duan,_ZJ id_Mirny,_LA"
+             d="M -173.0292,67.302002 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2793"
+             class="id_Duan,_ZJ id_Fraser,_P"
+             d="M -173.0292,67.302002 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2795"
+             class="id_Duan,_ZJ id_Dekker,_J"
+             d="M -173.0292,67.302002 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2797"
+             class="id_Belmont,_AS id_Yue,_F"
+             d="M -78.194008,-201.8455 -172.88686,-20.219297"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2799"
+             class="id_Belmont,_AS id_Hu,_M"
+             d="m -78.194008,-201.8455 -80.632022,99.59914"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2801"
+             class="id_Belmont,_AS id_Tanay,_A"
+             d="m -78.194008,-201.8455 58.704405,189.966868"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2803"
+             class="id_Belmont,_AS id_Darzacq,_X"
+             d="m -78.194008,-201.8455 -10.280945,73.69091"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2805"
+             class="id_Belmont,_AS id_Alber,_F"
+             d="m -78.194008,-201.8455 -74.832482,19.53804"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2807"
+             class="id_Belmont,_AS id_Misteli,_T"
+             d="m -78.194008,-201.8455 44.879509,107.954036"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2809"
+             class="id_Belmont,_AS id_Ren,_B"
+             d="m -78.194008,-201.8455 -162.775262,92.44382"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2811"
+             class="id_Belmont,_AS id_Ruan,_YJ"
+             d="M -78.194008,-201.8455 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2813"
+             class="id_Belmont,_AS id_Shendure,_J"
+             d="M -78.194008,-201.8455 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2815"
+             class="id_Belmont,_AS id_van_Steensel,_B"
+             d="m -78.194008,-201.8455 78.597909,20.02844"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2817"
+             class="id_Belmont,_AS id_Ellenberg,_J"
+             d="M -78.194008,-201.8455 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2819"
+             class="id_Belmont,_AS id_Nagano,_T"
+             d="M -78.194008,-201.8455 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2821"
+             class="id_Belmont,_AS id_Guttman,_M"
+             d="m -78.194008,-201.8455 170.143623,28.98948"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2823"
+             class="id_Belmont,_AS id_Mirny,_LA"
+             d="M -78.194008,-201.8455 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2825"
+             class="id_Belmont,_AS id_Fraser,_P"
+             d="M -78.194008,-201.8455 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2827"
+             class="id_Belmont,_AS id_Dekker,_J"
+             d="M -78.194008,-201.8455 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2829"
+             class="id_Yue,_F id_Gilbert,_DM"
+             d="m -172.88686,-20.219297 38.19851,179.527387"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2831"
+             class="id_Yue,_F id_Hu,_M"
+             d="m -172.88686,-20.219297 14.06083,-82.027063"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2833"
+             class="id_Yue,_F id_Tanay,_A"
+             d="m -172.88686,-20.219297 153.397257,8.340665"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2835"
+             class="id_Yue,_F id_Darzacq,_X"
+             d="M -172.88686,-20.219297 -88.474953,-128.15459"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2837"
+             class="id_Yue,_F id_Alber,_F"
+             d="m -172.88686,-20.219297 19.86037,-162.088163"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2839"
+             class="id_Yue,_F id_Ay,_F"
+             d="M -172.88686,-20.219297 -187.10152,146.78706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2841"
+             class="id_Yue,_F id_Misteli,_T"
+             d="M -172.88686,-20.219297 -33.314499,-93.891464"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2843"
+             class="id_Yue,_F id_Ren,_B"
+             d="m -172.88686,-20.219297 -68.08241,-89.182383"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2845"
+             class="id_Yue,_F id_Ruan,_YJ"
+             d="m -172.88686,-20.219297 77.31451,-22.846564"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2847"
+             class="id_Yue,_F id_Shendure,_J"
+             d="m -172.88686,-20.219297 -59.3294,62.696474"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2849"
+             class="id_Yue,_F id_van_Steensel,_B"
+             d="M -172.88686,-20.219297 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2851"
+             class="id_Yue,_F id_Ellenberg,_J"
+             d="M -172.88686,-20.219297 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2853"
+             class="id_Yue,_F id_Nagano,_T"
+             d="M -172.88686,-20.219297 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2855"
+             class="id_Yue,_F id_Guttman,_M"
+             d="M -172.88686,-20.219297 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2857"
+             class="id_Yue,_F id_Noble,_WS"
+             d="M -172.88686,-20.219297 -236.66324,120.84396"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2859"
+             class="id_Yue,_F id_Mirny,_LA"
+             d="M -172.88686,-20.219297 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2861"
+             class="id_Yue,_F id_Fraser,_P"
+             d="M -172.88686,-20.219297 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2863"
+             class="id_Yue,_F id_Dekker,_J"
+             d="M -172.88686,-20.219297 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2865"
+             class="id_Hu,_M id_Tanay,_A"
+             d="m -158.82603,-102.24636 139.336427,90.367728"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2867"
+             class="id_Hu,_M id_Darzacq,_X"
+             d="m -158.82603,-102.24636 70.351077,-25.90823"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2869"
+             class="id_Hu,_M id_Alber,_F"
+             d="m -158.82603,-102.24636 5.79954,-80.0611"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2871"
+             class="id_Hu,_M id_Misteli,_T"
+             d="m -158.82603,-102.24636 125.511531,8.354896"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2873"
+             class="id_Hu,_M id_Ren,_B"
+             d="m -158.82603,-102.24636 -82.14324,-7.15532"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:7;stroke-opacity:1" />
+          <path
+             id="path2875"
+             class="id_Hu,_M id_Ruan,_YJ"
+             d="m -158.82603,-102.24636 63.25368,59.180499"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2877"
+             class="id_Hu,_M id_Shendure,_J"
+             d="M -158.82603,-102.24636 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2879"
+             class="id_Hu,_M id_van_Steensel,_B"
+             d="M -158.82603,-102.24636 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2881"
+             class="id_Hu,_M id_Ellenberg,_J"
+             d="m -158.82603,-102.24636 63.338207,135.7102"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2883"
+             class="id_Hu,_M id_Nagano,_T"
+             d="M -158.82603,-102.24636 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2885"
+             class="id_Hu,_M id_Guttman,_M"
+             d="M -158.82603,-102.24636 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2887"
+             class="id_Hu,_M id_Mirny,_LA"
+             d="M -158.82603,-102.24636 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2889"
+             class="id_Hu,_M id_Fraser,_P"
+             d="M -158.82603,-102.24636 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2891"
+             class="id_Hu,_M id_Dekker,_J"
+             d="m -158.82603,-102.24636 313.12028,57.709518"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2893"
+             class="id_Hu,_M id_Corces,_VG"
+             d="m -158.82603,-102.24636 317.02381,-35.37629"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2895"
+             class="id_Heard,_E id_Greenleaf,_WJ"
+             d="M 262.35492,85.127777 172.57454,283.57706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2897"
+             class="id_Heard,_E id_de_Wit,_E"
+             d="M 262.35492,85.127777 327.13355,-53.592342"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2899"
+             class="id_Heard,_E id_Chang,_HY"
+             d="M 262.35492,85.127777 233.83165,258.21286"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2901"
+             class="id_Heard,_E id_Cavalli,_G"
+             d="m 262.35492,85.127777 91.90625,48.410063"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2903"
+             class="id_Heard,_E id_Marti-Renom,_MA"
+             d="m 262.35492,85.127777 28.97177,76.042003"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2905"
+             class="id_Heard,_E id_Giorgetti,_L"
+             d="m 262.35492,85.127777 42.47162,-38.43346"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:7;stroke-opacity:1" />
+          <path
+             id="path2907"
+             class="id_Heard,_E id_Bickmore,_WA"
+             d="M 262.35492,85.127777 218.45465,137.19922"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2909"
+             class="id_Heard,_E id_Guttman,_M"
+             d="M 262.35492,85.127777 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2911"
+             class="id_Heard,_E id_Fraser,_P"
+             d="M 262.35492,85.127777 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2913"
+             class="id_Heard,_E id_Reik,_W"
+             d="M 262.35492,85.127777 281.00561,320.76535"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2915"
+             class="id_Heard,_E id_Gasser,_SM"
+             d="M 262.35492,85.127777 333.70343,212.01434"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2917"
+             class="id_Heard,_E id_Dekker,_J"
+             d="M 262.35492,85.127777 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:4;stroke-opacity:1" />
+          <path
+             id="path2919"
+             class="id_Tanay,_A id_Darzacq,_X"
+             d="M -19.489603,-11.878632 -88.474953,-128.15459"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2921"
+             class="id_Tanay,_A id_Alber,_F"
+             d="M -19.489603,-11.878632 -153.02649,-182.30746"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2923"
+             class="id_Tanay,_A id_Cavalli,_G"
+             d="M -19.489603,-11.878632 354.26117,133.53784"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2925"
+             class="id_Tanay,_A id_Misteli,_T"
+             d="M -19.489603,-11.878632 -33.314499,-93.891464"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2927"
+             class="id_Tanay,_A id_Ren,_B"
+             d="M -19.489603,-11.878632 -240.96927,-109.40168"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2929"
+             class="id_Tanay,_A id_Ruan,_YJ"
+             d="M -19.489603,-11.878632 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2931"
+             class="id_Tanay,_A id_Shendure,_J"
+             d="M -19.489603,-11.878632 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2933"
+             class="id_Tanay,_A id_van_Steensel,_B"
+             d="M -19.489603,-11.878632 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2935"
+             class="id_Tanay,_A id_Ellenberg,_J"
+             d="M -19.489603,-11.878632 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2937"
+             class="id_Tanay,_A id_Nagano,_T"
+             d="m -19.489603,-11.878632 -1.241736,72.576153"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2939"
+             class="id_Tanay,_A id_Guttman,_M"
+             d="M -19.489603,-11.878632 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2941"
+             class="id_Tanay,_A id_Mirny,_LA"
+             d="M -19.489603,-11.878632 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2943"
+             class="id_Tanay,_A id_Fraser,_P"
+             d="M -19.489603,-11.878632 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path2945"
+             class="id_Tanay,_A id_Dekker,_J"
+             d="M -19.489603,-11.878632 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2947"
+             class="id_Darzacq,_X id_Alber,_F"
+             d="m -88.474953,-128.15459 -64.551537,-54.15287"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2949"
+             class="id_Darzacq,_X id_Misteli,_T"
+             d="m -88.474953,-128.15459 55.160454,34.263126"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2951"
+             class="id_Darzacq,_X id_Ren,_B"
+             d="m -88.474953,-128.15459 -152.494317,18.75291"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2953"
+             class="id_Darzacq,_X id_Ruan,_YJ"
+             d="m -88.474953,-128.15459 -7.097397,85.088729"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2955"
+             class="id_Darzacq,_X id_Shendure,_J"
+             d="M -88.474953,-128.15459 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2957"
+             class="id_Darzacq,_X id_van_Steensel,_B"
+             d="M -88.474953,-128.15459 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2959"
+             class="id_Darzacq,_X id_Ellenberg,_J"
+             d="m -88.474953,-128.15459 -7.01287,161.61843"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2961"
+             class="id_Darzacq,_X id_Nagano,_T"
+             d="M -88.474953,-128.15459 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2963"
+             class="id_Darzacq,_X id_Guttman,_M"
+             d="M -88.474953,-128.15459 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2965"
+             class="id_Darzacq,_X id_Mirny,_LA"
+             d="M -88.474953,-128.15459 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2967"
+             class="id_Darzacq,_X id_Fraser,_P"
+             d="M -88.474953,-128.15459 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2969"
+             class="id_Darzacq,_X id_Dekker,_J"
+             d="M -88.474953,-128.15459 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2971"
+             class="id_Alber,_F id_Misteli,_T"
+             d="m -153.02649,-182.30746 119.711991,88.415996"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2973"
+             class="id_Alber,_F id_Ren,_B"
+             d="m -153.02649,-182.30746 -87.94278,72.90578"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2975"
+             class="id_Alber,_F id_Ruan,_YJ"
+             d="m -153.02649,-182.30746 57.45414,139.241599"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2977"
+             class="id_Alber,_F id_Shendure,_J"
+             d="M -153.02649,-182.30746 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2979"
+             class="id_Alber,_F id_van_Steensel,_B"
+             d="m -153.02649,-182.30746 153.430391,0.4904"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2981"
+             class="id_Alber,_F id_Ellenberg,_J"
+             d="m -153.02649,-182.30746 57.538667,215.7713"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2983"
+             class="id_Alber,_F id_Nagano,_T"
+             d="M -153.02649,-182.30746 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2985"
+             class="id_Alber,_F id_Guttman,_M"
+             d="m -153.02649,-182.30746 244.976105,9.45144"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2987"
+             class="id_Alber,_F id_Mirny,_LA"
+             d="M -153.02649,-182.30746 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2989"
+             class="id_Alber,_F id_Fraser,_P"
+             d="M -153.02649,-182.30746 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2991"
+             class="id_Alber,_F id_Dekker,_J"
+             d="M -153.02649,-182.30746 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2993"
+             class="id_Cavalli,_G id_Di_Croce,_L"
+             d="m 354.26117,133.53784 36.85507,55.50511"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2995"
+             class="id_Cavalli,_G id_Razin,_SV"
+             d="M 354.26117,133.53784 382.77966,50.966827"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path2997"
+             class="id_Cavalli,_G id_Marti-Renom,_MA"
+             d="m 354.26117,133.53784 -62.93448,27.63194"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path2999"
+             class="id_Cavalli,_G id_Giorgetti,_L"
+             d="M 354.26117,133.53784 304.82654,46.694317"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3001"
+             class="id_Cavalli,_G id_Bickmore,_WA"
+             d="m 354.26117,133.53784 -135.80652,3.66138"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3003"
+             class="id_Cavalli,_G id_Fraser,_P"
+             d="M 354.26117,133.53784 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3005"
+             class="id_Cavalli,_G id_Gasser,_SM"
+             d="m 354.26117,133.53784 -20.55774,78.4765"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3007"
+             class="id_Misteli,_T id_Ren,_B"
+             d="M -33.314499,-93.891464 -240.96927,-109.40168"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3009"
+             class="id_Misteli,_T id_Ruan,_YJ"
+             d="M -33.314499,-93.891464 -95.57235,-43.065861"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3011"
+             class="id_Misteli,_T id_Shendure,_J"
+             d="M -33.314499,-93.891464 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3013"
+             class="id_Misteli,_T id_van_Steensel,_B"
+             d="m -33.314499,-93.891464 33.7184,-87.925596"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3015"
+             class="id_Misteli,_T id_Ellenberg,_J"
+             d="M -33.314499,-93.891464 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3017"
+             class="id_Misteli,_T id_Nagano,_T"
+             d="m -33.314499,-93.891464 12.58316,154.588985"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3019"
+             class="id_Misteli,_T id_Guttman,_M"
+             d="M -33.314499,-93.891464 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3021"
+             class="id_Misteli,_T id_Mirny,_LA"
+             d="m -33.314499,-93.891464 88.946968,11.087288"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3023"
+             class="id_Misteli,_T id_Fraser,_P"
+             d="M -33.314499,-93.891464 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3025"
+             class="id_Misteli,_T id_Dekker,_J"
+             d="M -33.314499,-93.891464 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path3027"
+             class="id_Marti-Renom,_MA id_Di_Croce,_L"
+             d="m 291.32669,161.16978 99.78955,27.87317"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3029"
+             class="id_Marti-Renom,_MA id_Giorgetti,_L"
+             d="M 291.32669,161.16978 304.82654,46.694317"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3031"
+             class="id_Marti-Renom,_MA id_Bickmore,_WA"
+             d="M 291.32669,161.16978 218.45465,137.19922"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3033"
+             class="id_Marti-Renom,_MA id_Fraser,_P"
+             d="M 291.32669,161.16978 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3035"
+             class="id_Marti-Renom,_MA id_Gasser,_SM"
+             d="m 291.32669,161.16978 42.37674,50.84456"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3037"
+             class="id_Marti-Renom,_MA id_Dekker,_J"
+             d="M 291.32669,161.16978 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3039"
+             class="id_Giorgetti,_L id_de_Wit,_E"
+             d="M 304.82654,46.694317 327.13355,-53.592342"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3041"
+             class="id_Giorgetti,_L id_Chang,_HY"
+             d="M 304.82654,46.694317 233.83165,258.21286"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3043"
+             class="id_Giorgetti,_L id_Bickmore,_WA"
+             d="M 304.82654,46.694317 218.45465,137.19922"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3045"
+             class="id_Giorgetti,_L id_de_Laat,_W"
+             d="M 304.82654,46.694317 297.56473,-6.491569"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3047"
+             class="id_Giorgetti,_L id_Guttman,_M"
+             d="M 304.82654,46.694317 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3049"
+             class="id_Giorgetti,_L id_Fraser,_P"
+             d="M 304.82654,46.694317 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3051"
+             class="id_Giorgetti,_L id_Gasser,_SM"
+             d="M 304.82654,46.694317 333.70343,212.01434"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3053"
+             class="id_Giorgetti,_L id_Dekker,_J"
+             d="M 304.82654,46.694317 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3055"
+             class="id_Ren,_B id_Ruan,_YJ"
+             d="m -240.96927,-109.40168 145.39692,66.335819"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3057"
+             class="id_Ren,_B id_Shendure,_J"
+             d="m -240.96927,-109.40168 8.75301,151.878857"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3059"
+             class="id_Ren,_B id_van_Steensel,_B"
+             d="M -240.96927,-109.40168 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3061"
+             class="id_Ren,_B id_Ellenberg,_J"
+             d="M -240.96927,-109.40168 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3063"
+             class="id_Ren,_B id_Nagano,_T"
+             d="M -240.96927,-109.40168 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3065"
+             class="id_Ren,_B id_Guttman,_M"
+             d="M -240.96927,-109.40168 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3067"
+             class="id_Ren,_B id_Mirny,_LA"
+             d="M -240.96927,-109.40168 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3069"
+             class="id_Ren,_B id_Fraser,_P"
+             d="M -240.96927,-109.40168 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3071"
+             class="id_Ren,_B id_Dekker,_J"
+             d="m -240.96927,-109.40168 395.26352,64.864838"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3073"
+             class="id_Bickmore,_WA id_Peters,_JM"
+             d="M 218.45465,137.19922 17.912754,215.25941"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3075"
+             class="id_Bickmore,_WA id_Mirny,_LA"
+             d="M 218.45465,137.19922 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3077"
+             class="id_Bickmore,_WA id_Fraser,_P"
+             d="M 218.45465,137.19922 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3079"
+             class="id_Bickmore,_WA id_Gasser,_SM"
+             d="m 218.45465,137.19922 115.24878,74.81512"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3081"
+             class="id_Ruan,_YJ id_Shendure,_J"
+             d="M -95.57235,-43.065861 -232.21626,42.477177"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3083"
+             class="id_Ruan,_YJ id_van_Steensel,_B"
+             d="M -95.57235,-43.065861 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3085"
+             class="id_Ruan,_YJ id_Ellenberg,_J"
+             d="m -95.57235,-43.065861 0.08453,76.529701"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3087"
+             class="id_Ruan,_YJ id_Nagano,_T"
+             d="M -95.57235,-43.065861 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3089"
+             class="id_Ruan,_YJ id_Guttman,_M"
+             d="M -95.57235,-43.065861 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3091"
+             class="id_Ruan,_YJ id_Mirny,_LA"
+             d="M -95.57235,-43.065861 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3093"
+             class="id_Ruan,_YJ id_Fraser,_P"
+             d="M -95.57235,-43.065861 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3095"
+             class="id_Ruan,_YJ id_Stunnenberg,_HG"
+             d="M -95.57235,-43.065861 168.88032,172.16368"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3097"
+             class="id_Ruan,_YJ id_Dekker,_J"
+             d="m -95.57235,-43.065861 249.8666,-1.470981"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3099"
+             class="id_Ruan,_YJ id_Corces,_VG"
+             d="M -95.57235,-43.065861 158.19778,-137.62265"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3101"
+             class="id_Shendure,_J id_Ay,_F"
+             d="m -232.21626,42.477177 45.11474,104.309883"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:4;stroke-opacity:1" />
+          <path
+             id="path3103"
+             class="id_Shendure,_J id_van_Steensel,_B"
+             d="M -232.21626,42.477177 0.403901,-181.81706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3105"
+             class="id_Shendure,_J id_Ellenberg,_J"
+             d="M -232.21626,42.477177 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3107"
+             class="id_Shendure,_J id_Nagano,_T"
+             d="M -232.21626,42.477177 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3109"
+             class="id_Shendure,_J id_Guttman,_M"
+             d="M -232.21626,42.477177 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3111"
+             class="id_Shendure,_J id_Noble,_WS"
+             d="m -232.21626,42.477177 -4.44698,78.366783"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:9;stroke-opacity:1" />
+          <path
+             id="path3113"
+             class="id_Shendure,_J id_Mirny,_LA"
+             d="M -232.21626,42.477177 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3115"
+             class="id_Shendure,_J id_Fraser,_P"
+             d="M -232.21626,42.477177 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3117"
+             class="id_Shendure,_J id_Dekker,_J"
+             d="M -232.21626,42.477177 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3119"
+             class="id_van_Steensel,_B id_de_Wit,_E"
+             d="M 0.403901,-181.81706 327.13355,-53.592342"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3121"
+             class="id_van_Steensel,_B id_de_Laat,_W"
+             d="M 0.403901,-181.81706 297.56473,-6.491569"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3123"
+             class="id_van_Steensel,_B id_Ellenberg,_J"
+             d="M 0.403901,-181.81706 -95.487823,33.46384"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3125"
+             class="id_van_Steensel,_B id_Nagano,_T"
+             d="M 0.403901,-181.81706 -20.731339,60.697521"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3127"
+             class="id_van_Steensel,_B id_Guttman,_M"
+             d="m 0.403901,-181.81706 91.545714,8.96104"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3129"
+             class="id_van_Steensel,_B id_Mirny,_LA"
+             d="m 0.403901,-181.81706 55.228568,99.012884"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3131"
+             class="id_van_Steensel,_B id_Fraser,_P"
+             d="M 0.403901,-181.81706 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3133"
+             class="id_van_Steensel,_B id_Dekker,_J"
+             d="M 0.403901,-181.81706 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3135"
+             class="id_Ellenberg,_J id_Peters,_JM"
+             d="M -95.487823,33.46384 17.912754,215.25941"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path3137"
+             class="id_Ellenberg,_J id_Nagano,_T"
+             d="m -95.487823,33.46384 74.756484,27.233681"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3139"
+             class="id_Ellenberg,_J id_Guttman,_M"
+             d="M -95.487823,33.46384 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3141"
+             class="id_Ellenberg,_J id_Mirny,_LA"
+             d="M -95.487823,33.46384 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3143"
+             class="id_Ellenberg,_J id_Fraser,_P"
+             d="M -95.487823,33.46384 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3145"
+             class="id_Ellenberg,_J id_Dekker,_J"
+             d="M -95.487823,33.46384 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3147"
+             class="id_Mundlos,_S id_Gilbert,_DM"
+             d="M -58.027752,216.92206 -134.68835,159.30809"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3149"
+             class="id_Mundlos,_S id_Ay,_F"
+             d="m -58.027752,216.92206 -129.073768,-70.135"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3151"
+             class="id_Mundlos,_S id_Fraser,_P"
+             d="M -58.027752,216.92206 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3153"
+             class="id_Nagano,_T id_Spivakov,_M"
+             d="M -20.731339,60.697521 141.99429,218.72119"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3155"
+             class="id_Nagano,_T id_Guttman,_M"
+             d="M -20.731339,60.697521 91.949615,-172.85602"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3157"
+             class="id_Nagano,_T id_Mirny,_LA"
+             d="M -20.731339,60.697521 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3159"
+             class="id_Nagano,_T id_Fraser,_P"
+             d="M -20.731339,60.697521 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:9;stroke-opacity:1" />
+          <path
+             id="path3161"
+             class="id_Nagano,_T id_Dekker,_J"
+             d="M -20.731339,60.697521 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3163"
+             class="id_Guttman,_M id_de_Wit,_E"
+             d="M 91.949615,-172.85602 327.13355,-53.592342"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3165"
+             class="id_Guttman,_M id_Mirny,_LA"
+             d="M 91.949615,-172.85602 55.632469,-82.804176"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3167"
+             class="id_Guttman,_M id_Fraser,_P"
+             d="M 91.949615,-172.85602 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3169"
+             class="id_Guttman,_M id_Dekker,_J"
+             d="M 91.949615,-172.85602 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3171"
+             class="id_Mirny,_LA id_Peters,_JM"
+             d="M 55.632469,-82.804176 17.912754,215.25941"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3173"
+             class="id_Mirny,_LA id_Earnshaw,_WC"
+             d="M 55.632469,-82.804176 214.05632,-261.33102"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3175"
+             class="id_Mirny,_LA id_Razin,_SV"
+             d="M 55.632469,-82.804176 382.77966,50.966827"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3177"
+             class="id_Mirny,_LA id_Fraser,_P"
+             d="M 55.632469,-82.804176 54.468956,153.29797"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3179"
+             class="id_Mirny,_LA id_Dekker,_J"
+             d="m 55.632469,-82.804176 98.661781,38.267334"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:8;stroke-opacity:1" />
+          <path
+             id="path3181"
+             class="id_Fraser,_P id_Greenleaf,_WJ"
+             d="M 54.468956,153.29797 172.57454,283.57706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3183"
+             class="id_Fraser,_P id_Peters,_JM"
+             d="M 54.468956,153.29797 17.912754,215.25941"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3185"
+             class="id_Fraser,_P id_Gilbert,_DM"
+             d="m 54.468956,153.29797 -189.157306,6.01012"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3187"
+             class="id_Fraser,_P id_Chang,_HY"
+             d="M 54.468956,153.29797 233.83165,258.21286"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3189"
+             class="id_Fraser,_P id_Ay,_F"
+             d="M 54.468956,153.29797 -187.10152,146.78706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3191"
+             class="id_Fraser,_P id_Spivakov,_M"
+             d="m 54.468956,153.29797 87.525334,65.42322"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:11;stroke-opacity:1" />
+          <path
+             id="path3193"
+             class="id_Fraser,_P id_Stunnenberg,_HG"
+             d="M 54.468956,153.29797 168.88032,172.16368"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3195"
+             class="id_Fraser,_P id_Reik,_W"
+             d="M 54.468956,153.29797 281.00561,320.76535"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3197"
+             class="id_Fraser,_P id_Gasser,_SM"
+             d="M 54.468956,153.29797 333.70343,212.01434"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3199"
+             class="id_Fraser,_P id_Dekker,_J"
+             d="M 54.468956,153.29797 154.29425,-44.536842"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3201"
+             class="id_Dekker,_J id_Stein,_GS"
+             d="M 154.29425,-44.536842 261.6748,-126.62236"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path3203"
+             class="id_Dekker,_J id_Earnshaw,_WC"
+             d="M 154.29425,-44.536842 214.05632,-261.33102"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3205"
+             class="id_Dekker,_J id_Gilbert,_DM"
+             d="M 154.29425,-44.536842 -134.68835,159.30809"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3207"
+             class="id_Dekker,_J id_de_Wit,_E"
+             d="m 154.29425,-44.536842 172.8393,-9.0555"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3209"
+             class="id_Dekker,_J id_Chang,_HY"
+             d="m 154.29425,-44.536842 79.5374,302.749702"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3211"
+             class="id_Dekker,_J id_Ay,_F"
+             d="M 154.29425,-44.536842 -187.10152,146.78706"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3213"
+             class="id_Dekker,_J id_Lee,_JT"
+             d="M 154.29425,-44.536842 379.34619,-248.39853"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3215"
+             class="id_Dekker,_J id_Duboule,_D"
+             d="M 154.29425,-44.536842 418.14667,-186.17851"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3217"
+             class="id_Dekker,_J id_de_Laat,_W"
+             d="M 154.29425,-44.536842 297.56473,-6.491569"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3219"
+             class="id_Dekker,_J id_Noble,_WS"
+             d="M 154.29425,-44.536842 -236.66324,120.84396"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3221"
+             class="id_Dekker,_J id_Phillips-Cremins,_JE"
+             d="M 154.29425,-44.536842 234.84398,-194.1497"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3223"
+             class="id_Dekker,_J id_Reik,_W"
+             d="M 154.29425,-44.536842 281.00561,320.76535"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3225"
+             class="id_Dekker,_J id_Corces,_VG"
+             d="m 154.29425,-44.536842 3.90353,-93.085808"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3227"
+             class="id_Chang,_HY id_Greenleaf,_WJ"
+             d="m 233.83165,258.21286 -61.25711,25.3642"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:8;stroke-opacity:1" />
+          <path
+             id="path3229"
+             class="id_Chang,_HY id_Regev,_A"
+             d="m 233.83165,258.21286 6.32819,84.95947"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3231"
+             class="id_Chang,_HY id_Spivakov,_M"
+             d="M 233.83165,258.21286 141.99429,218.72119"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3233"
+             class="id_Regev,_A id_Reik,_W"
+             d="m 240.15984,343.17233 40.84577,-22.40698"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3235"
+             class="id_Greenleaf,_WJ id_Spivakov,_M"
+             d="M 172.57454,283.57706 141.99429,218.72119"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3237"
+             class="id_Spivakov,_M id_Stunnenberg,_HG"
+             d="m 141.99429,218.72119 26.88603,-46.55751"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:3;stroke-opacity:1" />
+          <path
+             id="path3239"
+             class="id_de_Wit,_E id_de_Laat,_W"
+             d="M 327.13355,-53.592342 297.56473,-6.491569"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:7;stroke-opacity:1" />
+          <path
+             id="path3241"
+             class="id_Blobel,_GA id_Phillips-Cremins,_JE"
+             d="M 277.4971,-171.66971 234.84398,-194.1497"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3243"
+             class="id_Ay,_F id_Gilbert,_DM"
+             d="m -187.10152,146.78706 52.41317,12.52103"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:4;stroke-opacity:1" />
+          <path
+             id="path3245"
+             class="id_Ay,_F id_Noble,_WS"
+             d="m -187.10152,146.78706 -49.56172,-25.9431"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:8;stroke-opacity:1" />
+          <path
+             id="path3247"
+             class="id_Noble,_WS id_Gilbert,_DM"
+             d="m -236.66324,120.84396 101.97489,38.46413"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3249"
+             class="id_Gilbert,_DM id_Corces,_VG"
+             d="M -134.68835,159.30809 158.19778,-137.62265"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+          <path
+             id="path3251"
+             class="id_Corces,_VG id_Phillips-Cremins,_JE"
+             d="m 158.19778,-137.62265 76.6462,-56.52705"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:2;stroke-opacity:1" />
+          <path
+             id="path3253"
+             class="id_de_Laat,_W id_Stunnenberg,_HG"
+             d="M 297.56473,-6.491569 168.88032,172.16368"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c0c0c0;stroke-width:1;stroke-opacity:1" />
+        </g>
+        <g
+           id="nodes">
+          <circle
+             id="circle3256"
+             cy="78.175835"
+             class="id_Nicodemi,_M"
+             cx="133.03531"
+             r="14.868106"
+             style="fill:#c94942;fill-opacity:1;stroke:#c94942;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3258"
+             cy="45.123859"
+             class="id_Pombo,_A"
+             cx="63.254272"
+             r="16.614708"
+             style="fill:#ce574f;fill-opacity:1;stroke:#ce574f;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3260"
+             cy="128.54012"
+             class="id_Aiden,_EL"
+             cx="-71.194817"
+             r="24.042366"
+             style="fill:#d46a60;fill-opacity:1;stroke:#d46a60;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3262"
+             cy="-72.751083"
+             class="id_Hughes,_JR"
+             cx="272.62939"
+             r="12.588329"
+             style="fill:#efc3b0;fill-opacity:1;stroke:#efc3b0;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3264"
+             cy="67.302002"
+             class="id_Duan,_ZJ"
+             cx="-173.02921"
+             r="15.015188"
+             style="fill:#d97c71;fill-opacity:1;stroke:#d97c71;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3266"
+             cy="-201.8455"
+             class="id_Belmont,_AS"
+             cx="-78.194008"
+             r="13.011191"
+             style="fill:#dd887b;fill-opacity:1;stroke:#dd887b;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3268"
+             cy="-20.219297"
+             class="id_Yue,_F"
+             cx="-172.88686"
+             r="12"
+             style="fill:#d7776b;fill-opacity:1;stroke:#d7776b;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3270"
+             cy="-102.24636"
+             class="id_Hu,_M"
+             cx="-158.82603"
+             r="15.7506"
+             style="fill:#db8276;fill-opacity:1;stroke:#db8276;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3272"
+             cy="85.127777"
+             class="id_Heard,_E"
+             cx="262.35492"
+             r="14.776179"
+             style="fill:#e39d8e;fill-opacity:1;stroke:#e39d8e;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3274"
+             cy="-11.878632"
+             class="id_Tanay,_A"
+             cx="-19.489603"
+             r="16.09992"
+             style="fill:#d97c71;fill-opacity:1;stroke:#d97c71;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3276"
+             cy="-128.15459"
+             class="id_Darzacq,_X"
+             cx="-88.474953"
+             r="13.2502"
+             style="fill:#dd887b;fill-opacity:1;stroke:#dd887b;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3278"
+             cy="-182.30746"
+             class="id_Alber,_F"
+             cx="-153.02649"
+             r="13.452438"
+             style="fill:#dd887b;fill-opacity:1;stroke:#dd887b;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3280"
+             cy="133.53784"
+             class="id_Cavalli,_G"
+             cx="354.26117"
+             r="23.159872"
+             style="fill:#efc1af;fill-opacity:1;stroke:#efc1af;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3282"
+             cy="-93.891464"
+             class="id_Misteli,_T"
+             cx="-33.314499"
+             r="14.408473"
+             style="fill:#dd887b;fill-opacity:1;stroke:#dd887b;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3284"
+             cy="161.16978"
+             class="id_Marti-Renom,_MA"
+             cx="291.32669"
+             r="14.555555"
+             style="fill:#e9b09f;fill-opacity:1;stroke:#e9b09f;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3286"
+             cy="46.694317"
+             class="id_Giorgetti,_L"
+             cx="304.82654"
+             r="12.404476"
+             style="fill:#e5a292;fill-opacity:1;stroke:#e5a292;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3288"
+             cy="-109.40168"
+             class="id_Ren,_B"
+             cx="-240.96927"
+             r="29.760191"
+             style="fill:#dd887b;fill-opacity:1;stroke:#dd887b;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3290"
+             cy="137.19922"
+             class="id_Bickmore,_WA"
+             cx="218.45465"
+             r="13.691446"
+             style="fill:#efc1af;fill-opacity:1;stroke:#efc1af;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3292"
+             cy="-43.065861"
+             class="id_Ruan,_YJ"
+             cx="-95.57235"
+             r="16.780176"
+             style="fill:#d97c71;fill-opacity:1;stroke:#d97c71;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3294"
+             cy="42.477177"
+             class="id_Shendure,_J"
+             cx="-232.21626"
+             r="13.636291"
+             style="fill:#d97c71;fill-opacity:1;stroke:#d97c71;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3296"
+             cy="-181.81706"
+             class="id_van_Steensel,_B"
+             cx="0.40390146"
+             r="14.831335"
+             style="fill:#d97c71;fill-opacity:1;stroke:#d97c71;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3298"
+             cy="33.46384"
+             class="id_Ellenberg,_J"
+             cx="-95.487823"
+             r="12.606714"
+             style="fill:#db8276;fill-opacity:1;stroke:#db8276;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3300"
+             cy="216.92206"
+             class="id_Mundlos,_S"
+             cx="-58.027752"
+             r="28.675459"
+             style="fill:#f2ccb9;fill-opacity:1;stroke:#f2ccb9;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3302"
+             cy="60.697521"
+             class="id_Nagano,_T"
+             cx="-20.731339"
+             r="12.845723"
+             style="fill:#db8276;fill-opacity:1;stroke:#db8276;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3304"
+             cy="-172.85602"
+             class="id_Guttman,_M"
+             cx="91.949615"
+             r="15.879296"
+             style="fill:#d46a60;fill-opacity:1;stroke:#d46a60;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3306"
+             cy="-82.804176"
+             class="id_Mirny,_LA"
+             cx="55.632469"
+             r="32.38929"
+             style="fill:#d57166;fill-opacity:1;stroke:#d57166;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3308"
+             cy="153.29797"
+             class="id_Fraser,_P"
+             cx="54.468956"
+             r="21.229416"
+             style="fill:#bb1a18;fill-opacity:1;stroke:#bb1a18;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3310"
+             cy="212.01434"
+             class="id_Gasser,_SM"
+             cx="333.70343"
+             r="18.839329"
+             style="fill:#f0c5b3;fill-opacity:1;stroke:#f0c5b3;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3312"
+             cy="-44.536842"
+             class="id_Dekker,_J"
+             cx="154.29425"
+             r="25.752197"
+             style="fill:#b30000;fill-opacity:1;stroke:#b30000;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3314"
+             cy="324.54385"
+             class="id_Schlick,_T"
+             cx="-175.41162"
+             r="13.856915"
+             style="fill:#f9e0cb;fill-opacity:1;stroke:#f9e0cb;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3316"
+             cy="258.21286"
+             class="id_Chang,_HY"
+             cx="233.83165"
+             r="35"
+             style="fill:#edbba9;fill-opacity:1;stroke:#edbba9;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3318"
+             cy="343.17233"
+             class="id_Regev,_A"
+             cx="240.15984"
+             r="13.948841"
+             style="fill:#f6d9c5;fill-opacity:1;stroke:#f6d9c5;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3320"
+             cy="283.57706"
+             class="id_Greenleaf,_WJ"
+             cx="172.57454"
+             r="21.229416"
+             style="fill:#f2cdba;fill-opacity:1;stroke:#f2cdba;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3322"
+             cy="218.72119"
+             class="id_Spivakov,_M"
+             cx="141.99429"
+             r="16.798561"
+             style="fill:#f3cebb;fill-opacity:1;stroke:#f3cebb;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3324"
+             cy="-53.592342"
+             class="id_de_Wit,_E"
+             cx="327.13354"
+             r="13.28697"
+             style="fill:#efc3b0;fill-opacity:1;stroke:#efc3b0;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3326"
+             cy="-171.66971"
+             class="id_Blobel,_GA"
+             cx="277.4971"
+             r="13.452438"
+             style="fill:#fef0d9;fill-opacity:1;stroke:#fef0d9;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3328"
+             cy="146.78706"
+             class="id_Ay,_F"
+             cx="-187.10152"
+             r="12.680256"
+             style="fill:#eebeac;fill-opacity:1;stroke:#eebeac;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3330"
+             cy="120.84396"
+             class="id_Noble,_WS"
+             cx="-236.66324"
+             r="12.606714"
+             style="fill:#f2cbb7;fill-opacity:1;stroke:#f2cbb7;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3332"
+             cy="-126.62236"
+             class="id_Stein,_GS"
+             cx="261.6748"
+             r="13.875299"
+             style="fill:#f4d2be;fill-opacity:1;stroke:#f4d2be;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3334"
+             cy="215.25941"
+             class="id_Peters,_JM"
+             cx="17.912754"
+             r="14.408473"
+             style="fill:#f3d0bc;fill-opacity:1;stroke:#f3d0bc;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3336"
+             cy="-261.33102"
+             class="id_Earnshaw,_WC"
+             cx="214.05632"
+             r="13.636291"
+             style="fill:#f2cdba;fill-opacity:1;stroke:#f2cdba;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3338"
+             cy="159.30809"
+             class="id_Gilbert,_DM"
+             cx="-134.68835"
+             r="15.566747"
+             style="fill:#eec0ae;fill-opacity:1;stroke:#eec0ae;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3340"
+             cy="-137.62265"
+             class="id_Corces,_VG"
+             cx="158.19778"
+             r="20.714628"
+             style="fill:#f1c9b6;fill-opacity:1;stroke:#f1c9b6;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3342"
+             cy="320.76535"
+             class="id_Reik,_W"
+             cx="281.00562"
+             r="13.801759"
+             style="fill:#efc3b0;fill-opacity:1;stroke:#efc3b0;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3344"
+             cy="-6.491569"
+             class="id_de_Laat,_W"
+             cx="297.56473"
+             r="20.898481"
+             style="fill:#f0c7b4;fill-opacity:1;stroke:#f0c7b4;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3346"
+             cy="189.04295"
+             class="id_Di_Croce,_L"
+             cx="391.11624"
+             r="13.56275"
+             style="fill:#fbe8d2;fill-opacity:1;stroke:#fbe8d2;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3348"
+             cy="50.966827"
+             class="id_Razin,_SV"
+             cx="382.77966"
+             r="13.930456"
+             style="fill:#f6d9c5;fill-opacity:1;stroke:#f6d9c5;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3350"
+             cy="-248.39853"
+             class="id_Lee,_JT"
+             cx="379.34619"
+             r="18.398083"
+             style="fill:#f4d2be;fill-opacity:1;stroke:#f4d2be;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3352"
+             cy="172.16368"
+             class="id_Stunnenberg,_HG"
+             cx="168.88033"
+             r="13.066347"
+             style="fill:#f3cebb;fill-opacity:1;stroke:#f3cebb;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3354"
+             cy="-186.17851"
+             class="id_Duboule,_D"
+             cx="418.14667"
+             r="14.684253"
+             style="fill:#f4d2be;fill-opacity:1;stroke:#f4d2be;stroke-width:1;stroke-opacity:1" />
+          <circle
+             id="circle3356"
+             cy="-194.1497"
+             class="id_Phillips-Cremins,_JE"
+             cx="234.84398"
+             r="13.415668"
+             style="fill:#f3cebb;fill-opacity:1;stroke:#f3cebb;stroke-width:1;stroke-opacity:1" />
+        </g>
+        <g
+           id="node-labels">
+          <text
+             id="text3359"
+             class="id_Nicodemi,_M"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="80.7481"
+             x="133.03531"
+             font-size="12">Nicodemi, M</text>
+          <text
+             id="text3361"
+             class="id_Pombo,_A"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="47.696125"
+             x="63.254272"
+             font-size="12">Pombo, A</text>
+          <text
+             id="text3363"
+             class="id_Aiden,_EL"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="131.11238"
+             x="-71.194817"
+             font-size="12">Aiden, EL</text>
+          <text
+             id="text3365"
+             class="id_Hughes,_JR"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-69.972275"
+             x="272.62939"
+             font-size="12">Hughes, JR</text>
+          <text
+             id="text3367"
+             class="id_Duan,_ZJ"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="69.874268"
+             x="-173.02921"
+             font-size="12">Duan, ZJ</text>
+          <text
+             id="text3369"
+             class="id_Belmont,_AS"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-199.23662"
+             x="-78.194008"
+             font-size="12">Belmont, AS</text>
+          <text
+             id="text3371"
+             class="id_Yue,_F"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-17.647032"
+             x="-172.88686"
+             font-size="12">Yue, F</text>
+          <text
+             id="text3373"
+             class="id_Hu,_M"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-99.674095"
+             x="-158.82603"
+             font-size="12">Hu, M</text>
+          <text
+             id="text3375"
+             class="id_Heard,_E"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="87.700043"
+             x="262.35492"
+             font-size="12">Heard, E</text>
+          <text
+             id="text3377"
+             class="id_Tanay,_A"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-9.099823"
+             x="-19.489603"
+             font-size="12">Tanay, A</text>
+          <text
+             id="text3379"
+             class="id_Darzacq,_X"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-125.41093"
+             x="-88.474953"
+             font-size="12">Darzacq, X</text>
+          <text
+             id="text3381"
+             class="id_Alber,_F"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-179.7352"
+             x="-153.02649"
+             font-size="12">Alber, F</text>
+          <text
+             id="text3383"
+             class="id_Cavalli,_G"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="136.14673"
+             x="354.26117"
+             font-size="12">Cavalli, G</text>
+          <text
+             id="text3385"
+             class="id_Misteli,_T"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-91.319199"
+             x="-33.314499"
+             font-size="12">Misteli, T</text>
+          <text
+             id="text3387"
+             class="id_Marti-Renom,_MA"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="163.74205"
+             x="291.32669"
+             font-size="12">Marti-Renom, MA</text>
+          <text
+             id="text3389"
+             class="id_Giorgetti,_L"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="49.509747"
+             x="304.82654"
+             font-size="12">Giorgetti, L</text>
+          <text
+             id="text3391"
+             class="id_Ren,_B"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-106.82941"
+             x="-240.96927"
+             font-size="12">Ren, B</text>
+          <text
+             id="text3393"
+             class="id_Bickmore,_WA"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="139.77148"
+             x="218.45465"
+             font-size="12">Bickmore, WA</text>
+          <text
+             id="text3395"
+             class="id_Ruan,_YJ"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-40.493595"
+             x="-95.57235"
+             font-size="12">Ruan, YJ</text>
+          <text
+             id="text3397"
+             class="id_Shendure,_J"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="45.086063"
+             x="-232.21626"
+             font-size="12">Shendure, J</text>
+          <text
+             id="text3399"
+             class="id_van_Steensel,_B"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-179.20818"
+             x="0.40390146"
+             font-size="12">van Steensel, B</text>
+          <text
+             id="text3401"
+             class="id_Ellenberg,_J"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="36.242649"
+             x="-95.487823"
+             font-size="12">Ellenberg, J</text>
+          <text
+             id="text3403"
+             class="id_Mundlos,_S"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="219.53094"
+             x="-58.027752"
+             font-size="12">Mundlos, S</text>
+          <text
+             id="text3405"
+             class="id_Nagano,_T"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="63.47633"
+             x="-20.731339"
+             font-size="12">Nagano, T</text>
+          <text
+             id="text3407"
+             class="id_Guttman,_M"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-170.24713"
+             x="91.949615"
+             font-size="12">Guttman, M</text>
+          <text
+             id="text3409"
+             class="id_Mirny,_LA"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-80.025368"
+             x="55.632469"
+             font-size="12">Mirny, LA</text>
+          <text
+             id="text3411"
+             class="id_Fraser,_P"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="155.87024"
+             x="54.468956"
+             font-size="12">Fraser, P</text>
+          <text
+             id="text3413"
+             class="id_Gasser,_SM"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="214.62323"
+             x="333.70343"
+             font-size="12">Gasser, SM</text>
+          <text
+             id="text3415"
+             class="id_Dekker,_J"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-41.964577"
+             x="154.29425"
+             font-size="12">Dekker, J</text>
+          <text
+             id="text3417"
+             class="id_Schlick,_T"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="327.15274"
+             x="-175.41162"
+             font-size="12">Schlick, T</text>
+          <text
+             id="text3419"
+             class="id_Chang,_HY"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="261.02829"
+             x="233.83165"
+             font-size="12">Chang, HY</text>
+          <text
+             id="text3421"
+             class="id_Regev,_A"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="345.95114"
+             x="240.15984"
+             font-size="12">Regev, A</text>
+          <text
+             id="text3423"
+             class="id_Greenleaf,_WJ"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="286.18594"
+             x="172.57454"
+             font-size="12">Greenleaf, WJ</text>
+          <text
+             id="text3425"
+             class="id_Spivakov,_M"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="221.50146"
+             x="141.99429"
+             font-size="12">Spivakov, M</text>
+          <text
+             id="text3427"
+             class="id_de_Wit,_E"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-51.020077"
+             x="327.13354"
+             font-size="12">de Wit, E</text>
+          <text
+             id="text3429"
+             class="id_Blobel,_GA"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-169.06082"
+             x="277.4971"
+             font-size="12">Blobel, GA</text>
+          <text
+             id="text3431"
+             class="id_Ay,_F"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="149.56587"
+             x="-187.10152"
+             font-size="12">Ay, F</text>
+          <text
+             id="text3433"
+             class="id_Noble,_WS"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="123.45284"
+             x="-236.66324"
+             font-size="12">Noble, WS</text>
+          <text
+             id="text3435"
+             class="id_Stein,_GS"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-124.01347"
+             x="261.6748"
+             font-size="12">Stein, GS</text>
+          <text
+             id="text3437"
+             class="id_Peters,_JM"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="217.83168"
+             x="17.912754"
+             font-size="12">Peters, JM</text>
+          <text
+             id="text3439"
+             class="id_Earnshaw,_WC"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-258.72214"
+             x="214.05632"
+             font-size="12">Earnshaw, WC</text>
+          <text
+             id="text3441"
+             class="id_Gilbert,_DM"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="161.91698"
+             x="-134.68835"
+             font-size="12">Gilbert, DM</text>
+          <text
+             id="text3443"
+             class="id_Corces,_VG"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-135.01376"
+             x="158.19778"
+             font-size="12">Corces, VG</text>
+          <text
+             id="text3445"
+             class="id_Reik,_W"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="323.33762"
+             x="281.00562"
+             font-size="12">Reik, W</text>
+          <text
+             id="text3447"
+             class="id_de_Laat,_W"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-3.9193034"
+             x="297.56473"
+             font-size="12">de Laat, W</text>
+          <text
+             id="text3449"
+             class="id_Di_Croce,_L"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="191.65184"
+             x="391.11624"
+             font-size="12">Di Croce, L</text>
+          <text
+             id="text3451"
+             class="id_Razin,_SV"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="53.575714"
+             x="382.77966"
+             font-size="12">Razin, SV</text>
+          <text
+             id="text3453"
+             class="id_Lee,_JT"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-245.82626"
+             x="379.34619"
+             font-size="12">Lee, JT</text>
+          <text
+             id="text3455"
+             class="id_Stunnenberg,_HG"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="174.97911"
+             x="168.88033"
+             font-size="12">Stunnenberg, HG</text>
+          <text
+             id="text3457"
+             class="id_Duboule,_D"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-183.60625"
+             x="418.14667"
+             font-size="12">Duboule, D</text>
+          <text
+             id="text3459"
+             class="id_Phillips-Cremins,_JE"
+             style="font-size:12px;font-family:Arial;dominant-baseline:central;text-anchor:middle;fill:#000000"
+             y="-191.36943"
+             x="234.84398"
+             font-size="12">Phillips-Cremins, JE</text>
+        </g>
+      </g>
+      <path
+         style="opacity:0.97000002;fill:#808080;fill-opacity:0.0091743;stroke:#040000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3907"
+         sodipodi:type="arc"
+         sodipodi:cx="339.33282"
+         sodipodi:cy="175.04117"
+         sodipodi:rx="34.233059"
+         sodipodi:ry="34.23317"
+         sodipodi:start="6.2340717"
+         sodipodi:end="6.2273343"
+         d="m 373.5246,173.36053 a 34.233059,34.23317 0 0 1 -32.45355,35.86965 34.233059,34.23317 0 0 1 -35.92415,-32.3932 34.233059,34.23317 0 0 1 32.33254,-35.97877 34.233059,34.23317 0 0 1 36.03307,32.272"
+         sodipodi:open="true" />
+      <path
+         sodipodi:open="true"
+         d="m 362.26258,184.60752 a 23.653984,23.65398 0 0 1 -22.42441,24.78473 23.653984,23.65398 0 0 1 -24.82247,-22.38262 23.653984,23.65398 0 0 1 22.34078,-24.86013 23.653984,23.65398 0 0 1 24.89774,22.29887"
+         sodipodi:end="6.2273343"
+         sodipodi:start="6.2340717"
+         sodipodi:ry="23.65398"
+         sodipodi:rx="23.653984"
+         sodipodi:cy="185.76878"
+         sodipodi:cx="338.63712"
+         sodipodi:type="arc"
+         id="path3909"
+         style="opacity:0.97000002;fill:#808080;fill-opacity:0.0091743;stroke:#040000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="opacity:0.97000002;fill:#808080;fill-opacity:0.0091743;stroke:#040000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3911"
+         sodipodi:type="arc"
+         sodipodi:cx="339.267"
+         sodipodi:cy="197.65599"
+         sodipodi:rx="11.751333"
+         sodipodi:ry="11.751351"
+         sodipodi:start="6.2340717"
+         sodipodi:end="6.2273343"
+         d="m 351.00416,197.07907 a 11.751333,11.751351 0 0 1 -11.14047,12.31311 11.751333,11.751351 0 0 1 -12.33184,-11.11973 11.751333,11.751351 0 0 1 11.09893,-12.35058 11.751333,11.751351 0 0 1 12.36923,11.07814"
+         sodipodi:open="true" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="381.39877"
+         y="154.07495"
+         id="text3915"><tspan
+           sodipodi:role="line"
+           id="tspan3913"
+           x="381.39877"
+           y="154.07495">1334</tspan></text>
+      <text
+         id="text3919"
+         y="179.1544"
+         x="386.40195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="179.1544"
+           x="386.40195"
+           id="tspan3917"
+           sodipodi:role="line">738</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="392.38922"
+         y="203.24976"
+         id="text3923"><tspan
+           sodipodi:role="line"
+           id="tspan3921"
+           x="392.38922"
+           y="203.24976">83</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="270.56888"
+         y="61.208809"
+         id="text3927"><tspan
+           sodipodi:role="line"
+           id="tspan3925"
+           x="270.56888"
+           y="61.208809">Node Size &amp; Color</tspan></text>
+      <text
+         id="text3931"
+         y="110.86357"
+         x="283.66245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.66666667;stroke:none"
+         xml:space="preserve"><tspan
+           y="110.86357"
+           x="283.66245"
+           id="tspan3929"
+           sodipodi:role="line">Time Cited</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.66666667;stroke:none;"
+         x="285.58325"
+         y="281.96234"
+         id="text3935"><tspan
+           sodipodi:role="line"
+           id="tspan3933"
+           x="285.58325"
+           y="281.96234">Centrality</tspan></text>
+      <rect
+         style="opacity:0.97000002;fill:url(#linearGradient3953);fill-opacity:1;stroke:#040000;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3937"
+         width="114.91534"
+         height="17.024494"
+         x="286.08466"
+         y="307"
+         ry="4.01371" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="280.68073"
+         y="341.26968"
+         id="text3957"><tspan
+           sodipodi:role="line"
+           id="tspan3955"
+           x="280.68073"
+           y="341.26968">0.133</tspan></text>
+      <text
+         id="text3961"
+         y="341.26334"
+         x="377.99533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="341.26334"
+           x="377.99533"
+           id="tspan3959"
+           sodipodi:role="line">0.204</tspan></text>
+      <text
+         id="text3965"
+         y="499.57001"
+         x="272.8735"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="499.57001"
+           x="272.8735"
+           id="tspan3963"
+           sodipodi:role="line">Edge Width</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.66666667;stroke:none;stroke-width:0.99897009"
+         x="283.33069"
+         y="539.91943"
+         id="text3969"
+         transform="scale(1.0010309,0.99897016)"><tspan
+           sodipodi:role="line"
+           id="tspan3967"
+           x="283.33069"
+           y="539.91943"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.66666667;stroke-width:0.99897009">Number of Times</tspan><tspan
+           sodipodi:role="line"
+           x="283.33069"
+           y="566.58612"
+           id="tspan3971"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.66666667;stroke-width:0.99897009">Co-authored</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.34403669"
+         d="m 289,601 h 70"
+         id="path3975"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3977"
+         d="m 289,621 h 70"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34403669" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34403669"
+         d="m 289,645 h 70"
+         id="path3979"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="363"
+         y="605"
+         id="text3983"><tspan
+           sodipodi:role="line"
+           id="tspan3981"
+           x="363"
+           y="605">1</tspan></text>
+      <text
+         id="text3987"
+         y="626.66479"
+         x="363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="626.66479"
+           x="363"
+           id="tspan3985"
+           sodipodi:role="line">6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="362.4187"
+         y="649.94543"
+         id="text3991"><tspan
+           sodipodi:role="line"
+           id="tspan3989"
+           x="362.4187"
+           y="649.94543">12</tspan></text>
+    </g>
+    <text
+       id="text4467"
+       y="-22.93644"
+       x="-526.1568"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-22.93644"
+         x="-526.1568"
+         id="tspan4465"
+         sodipodi:role="line">Collaboration Network in 3D Genome Research (2015-2019)</tspan></text>
+  </g>
+</svg>
