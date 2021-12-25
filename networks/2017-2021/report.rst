@@ -8,6 +8,7 @@ Here's the collaboration network of top 80 labs in 3D Genome from years 2017-202
 .. list-table:: List of the labs
    :widths: 50 50 50
    :header-rows: 1
+   :align: center
 
    * - Group Leader
      - Total citations as as corresponding author
