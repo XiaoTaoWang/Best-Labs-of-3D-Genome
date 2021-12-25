@@ -18,3 +18,4 @@ I plan to update the network annually and each update will include data from las
 
 - `Year 2008 - 2017 <networks/2008-2017/report.rst>`_
 - `Year 2015 - 2019 <networks/2015-2019/report.rst>`_
+- `Year 2017 - 2021 <networks/2017-2021/report.rst>`_

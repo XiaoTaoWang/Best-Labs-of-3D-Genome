@@ -25,7 +25,7 @@ def WOS_records(infil):
                 abstract = []
                 RP_records = set()
                 cited_times = 0
-                published_year = 2019
+                published_year = 2021
             if line.startswith('AU '):
                 authors.append(line.strip().split('AU ')[1])
             elif line.startswith('AF '):
@@ -37,7 +37,7 @@ def WOS_records(infil):
             elif line.startswith('RP '):
                 parse = line.rstrip()[3:].split(';')
                 for r in parse:
-                    tmp = r.split('(reprint author)')[0].strip()
+                    tmp = r.split('(corresponding author)')[0].strip()
                     RP_records.add(tmp)
                 RP_records = list(RP_records)
             elif line.startswith('Z9 '):

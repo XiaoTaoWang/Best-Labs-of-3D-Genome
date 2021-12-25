@@ -1,6 +1,6 @@
 Description
 ===========
-Here's the collaboration network of top 51 labs in 3D Genome between 2015 and 2019:
+Here's the collaboration network of top 51 labs in 3D Genome from years 2015-2019:
 
 .. image:: ./2015-2019.coauthors.png
         :align: center

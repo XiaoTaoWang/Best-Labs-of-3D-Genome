@@ -40,7 +40,7 @@ def initial_coauthors(by_pubs, correspondings):
     degrees = G.degree(list(G))
     rnodes = []
     for n in degrees:
-        if (degrees[n] >= 20) or ((G.node[n]['cited'] > 120) and (G.node[n]['nworks'] > 5)):
+        if (degrees[n] >= 10) or ((G.node[n]['cited'] > 120) and (G.node[n]['nworks'] > 5)):
             continue
         rnodes.append(n)
     G.remove_nodes_from(rnodes)
