@@ -6,9 +6,9 @@ Here's the co-authored network of 68 most influential researchers between 2008 a
         :align: center
 
 The name (abbr.) of each researcher is labeled on the lower right of corresponding circle.
-According to the network, the most influential researcher in this area is Job Dekker, the initiator
-of chromosome conformation capture (3C). And it's interesting to see this network is highly modularized
-and locally centralized.
+According to the network, the most influential researcher in this area is Job Dekker, the creator
+of the chromosome conformation capture (3C) technique. And it's interesting to see this network
+is highly modularized and locally centralized.
 
 I also drew the co-authored network of researchers from Chinese mainland:
 
@@ -21,8 +21,6 @@ which severely limits their impact level.
 
 Website and contact information
 ===============================
-I also collected lab websites and contact information of the leader:
-
 (Ranked by total times cited)
 
 - Job Dekker
