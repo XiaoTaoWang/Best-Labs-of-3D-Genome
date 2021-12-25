@@ -5,6 +5,10 @@ Here's the collaboration network of top 80 labs in 3D Genome from years 2017-202
 .. image:: ./2017-2021.coauthors.png
         :align: center
 
+List of labs
+============
+(Ranked by total times cited)
+
 .. list-table::
    :widths: 50 50 50
    :header-rows: 1
@@ -16,3 +20,6 @@ Here's the collaboration network of top 80 labs in 3D Genome from years 2017-202
    * - `Erez Lieberman Aiden <https://www.aidenlab.org/>`_
      - 1529
      - 9
+   * - `Leonid Mirny <http://mirnylab.mit.edu/>`_
+     - 1425
+     - 15
