@@ -8,9 +8,9 @@ The pipeline is quite simple:
 
   1. Search and download 3D genome related publication records through `web of science <https://clarivate.com/webofsciencegroup/solutions/web-of-science/>`_
   2. Parse and extract necessary information (authors, citation times, ... ) from the records
-  3. Count the number of works and total cited times of each corresponding author (representative of a lab)
+  3. Count the number of publications and total cited times of each corresponding author
   4. Build the co-author network
-  5. Rank labs by their centrality in the network, total cited times and number of works.
+  5. Rank labs by their centrality in the network, total cited times, and number of publications.
 
 Collaboration Networks
 ======================
