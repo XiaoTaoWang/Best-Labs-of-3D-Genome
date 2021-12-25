@@ -13,6 +13,6 @@ Here's the collaboration network of top 80 labs in 3D Genome from years 2017-202
    * - Group Leader
      - Total citations as as corresponding author
      - Total publications as corresponding author
-   * - Erez Lieberman Aiden
+   * - `Erez Lieberman Aiden <https://www.aidenlab.org/>`_
      - 1529
      - 9
