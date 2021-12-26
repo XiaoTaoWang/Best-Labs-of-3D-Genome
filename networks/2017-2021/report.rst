@@ -1,6 +1,6 @@
 Description
 ===========
-Here's the collaboration network of top 71 labs in 3D Genome from years 2017-2021:
+Here's the collaboration network of top 70 labs in 3D Genome from years 2017-2021:
 
 .. image:: ./2017-2021.coauthors.png
         :align: center
@@ -238,5 +238,63 @@ List of labs
      - `Ming Hu <https://www.lerner.ccf.org/qhs/hum/lab/>`_
      - 90
      - 7
-
-    
+   * - 56
+     - `Christophe Zimmer <https://research.pasteur.fr/en/team/imaging-and-modeling/>`_
+     - 78
+     - 5
+   * - 57
+     - `Karine Le Roch <https://lerochlab.ucr.edu/index.html>`_
+     - 77
+     - 7
+   * - 58
+     - `Sergei A. Grigoryev <http://www.sergeigrigoryev.com/>`_
+     - 77
+     - 5
+   * - 59
+     - `Yiqin Gao <https://www.chem.pku.edu.cn/gaoyq/#0>`_
+     - 76
+     - 9
+   * - 60
+     - `Josee Dostie <https://www.mcgill.ca/biochemistry/about-us/department/faculty-members/dostie>`_
+     - 73
+     - 5
+   * - 61
+     - `Stefan Grob <https://www.botinst.uzh.ch/en/research/development/stefangrob.html>`_
+     - 71
+     - 6
+   * - 62
+     - `Vladimir B. Teif <https://generegulation.org/>`_
+     - 69
+     - 5
+   * - 63
+     - `Frederic Pontvianne <https://www.researchgate.net/lab/Frederic-Pontvianne-Lab-3>`_
+     - 66
+     - 7
+   * - 64
+     - `Victor B. Zhurkin <https://ccr.cancer.gov/staff-directory/victor-b-zhurkin>`_
+     - 66
+     - 5
+   * - 65
+     - `Genevieve Almouzni <https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/umr3664-nuclear-dynamics/team-almouzni/>`_
+     - 63
+     - 5
+   * - 66
+     - `Vadim Backman <https://biophotonics.bme.northwestern.edu/>`_
+     - 56
+     - 5
+   * - 67
+     - `Celia Baroux <https://www.botinst.uzh.ch/en/research/development/celiabaroux.html>`_
+     - 55
+     - 5
+   * - 68
+     - `Jian Ma <https://www.cs.cmu.edu/~jianma/>`_
+     - 53
+     - 9
+   * - 69
+     - `Xiaochen Bo <https://www.researchgate.net/profile/Xiao-Chen-Bo>`_
+     - 53
+     - 6
+   * - 70
+     - `Yun Li <https://yunliweb.its.unc.edu/>`_
+     - 53
+     - 5
