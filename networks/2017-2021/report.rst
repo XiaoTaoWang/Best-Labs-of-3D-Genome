@@ -1,6 +1,6 @@
 Description
 ===========
-Here's the collaboration network of top 80 labs in 3D Genome from years 2017-2021:
+Here's the collaboration network of top 71 labs in 3D Genome from years 2017-2021:
 
 .. image:: ./2017-2021.coauthors.png
         :align: center
@@ -71,27 +71,77 @@ List of labs
      - 517
      - 10
    * - 14
-     - `William Greenleaf <https://greenleaf.stanford.edu/>`_
-     - 516
-     - 4
-   * - 15
      - `Mario Nicodemi <http://people.na.infn.it/~nicodem/>`_
      - 511
      - 16
-   * - 16
+   * - 15
      - `Ana Pombo <https://www.mdc-berlin.de/pombo>`_
      - 477
      - 7
-   * - 17
+   * - 16
      - `Benjamin Rowland <https://www.nki.nl/research/research-groups/benjamin-rowland/>`_
      - 461
      - 6
-   * - 18
-     - `Xiaowei Zhuang <http://zhuang.harvard.edu/>`_
-     - 448
-     - 3
-   * - 19
+   * - 17
      - `Susan Gasser <https://www.fmi.ch/research-groups/website/gasserlab/index.php>`_
      - 423
      - 9
+   * - 18
+     - `Chang Liu <https://epigenetics.uni-hohenheim.de/en/english>`_
+     - 334
+     - 9
+   * - 19
+     - `Feng Yue <http://yuelab.org/>`_
+     - 330
+     - 7
+   * - 20
+     - `Jennifer Phillips-Cremins <http://creminslab.com/>`_
+     - 328
+     - 9
+   * - 21
+     - `Kazuhiro Maeshima <http://maeshima-lab.sakuraweb.com/>`_
+     - 319
+     - 9
+   * - 22
+     - `Zhijun Duan <https://hematology.uw.edu/faculty/zhijun-duan-phd>`_
+     - 312
+     - 7
+   * - 23
+     - `Juanma Vaquerizas <https://www.vaquerizaslab.org/>`_
+     - 305
+     - 8
+   * - 24
+     - `Tom Misteli <https://ccr.cancer.gov/staff-directory/tom-misteli>`_
+     - 296
+     - 7
+   * - 25
+     - `Guoliang Li <http://www.guolianglab.org/subpages/OUR%20TEAM/group%20members.php>`_
+     - 187
+     - 16
+   * - 26
+     - `Frederick Alt <https://www.childrenshospital.org/research/labs/alt-laboratory>`_
+     - 171
+     - 7
+   * - 27
+     - Yijun Ruan
+     - 168
+     - 9
+   * - 28
+     - `Jose Onuchic <https://onuchic.rice.edu/index.html>`_
+     - 164
+     - 6
+   * - 29
+     - `Qianwen Sun <http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2571.shtml>`_
+     - 148
+     - 6
+   * - 30
+     - `Ferhat Ay <https://www.lji.org/labs/ay/>`_
+     - 132
+     - 6
+   * - 31
+     - `Cheng Li <http://3d-genome.life/>`_
+     - 127
+     - 9
+   * - 32
+     - ``_
     

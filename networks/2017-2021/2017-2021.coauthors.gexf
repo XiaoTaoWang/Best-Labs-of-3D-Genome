@@ -14,6 +14,13 @@
           <attvalue for="2" value="0.1511262629156401" />
         </attvalues>
       </node>
+      <node id="Li, Y" label="Li, Y">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13687906555467988" />
+        </attvalues>
+      </node>
       <node id="Ren, B" label="Ren, B">
         <attvalues>
           <attvalue for="0" value="517" />
@@ -63,6 +70,13 @@
           <attvalue for="2" value="0.13488236517422775" />
         </attvalues>
       </node>
+      <node id="Noble, WS" label="Noble, WS">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13937666056281764" />
+        </attvalues>
+      </node>
       <node id="Duan, ZJ" label="Duan, ZJ">
         <attvalues>
           <attvalue for="0" value="312" />
@@ -75,6 +89,20 @@
           <attvalue for="0" value="132" />
           <attvalue for="1" value="6" />
           <attvalue for="2" value="0.1565116085874669" />
+        </attvalues>
+      </node>
+      <node id="Rinn, JL" label="Rinn, JL">
+        <attvalues>
+          <attvalue for="0" value="173" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.12970415698739876" />
+        </attvalues>
+      </node>
+      <node id="Gilbert, DM" label="Gilbert, DM">
+        <attvalues>
+          <attvalue for="0" value="118" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.1758161427464915" />
         </attvalues>
       </node>
       <node id="Ma, J" label="Ma, J">
@@ -91,18 +119,18 @@
           <attvalue for="2" value="0.13987601961738189" />
         </attvalues>
       </node>
+      <node id="Li, XW" label="Li, XW">
+        <attvalues>
+          <attvalue for="0" value="104" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13932139622476736" />
+        </attvalues>
+      </node>
       <node id="Ruan, YJ" label="Ruan, YJ">
         <attvalues>
           <attvalue for="0" value="168" />
           <attvalue for="1" value="9" />
           <attvalue for="2" value="0.15530102155971856" />
-        </attvalues>
-      </node>
-      <node id="Corces, VG" label="Corces, VG">
-        <attvalues>
-          <attvalue for="0" value="749" />
-          <attvalue for="1" value="12" />
-          <attvalue for="2" value="0.15367092118034692" />
         </attvalues>
       </node>
       <node id="Aiden, EL" label="Aiden, EL">
@@ -119,6 +147,41 @@
           <attvalue for="2" value="0.15530102155971856" />
         </attvalues>
       </node>
+      <node id="Corces, VG" label="Corces, VG">
+        <attvalues>
+          <attvalue for="0" value="749" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.15367092118034692" />
+        </attvalues>
+      </node>
+      <node id="Liu, Y" label="Liu, Y">
+        <attvalues>
+          <attvalue for="0" value="114" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13817088528464935" />
+        </attvalues>
+      </node>
+      <node id="Stephens, AD" label="Stephens, AD">
+        <attvalues>
+          <attvalue for="0" value="334" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.1433279874684329" />
+        </attvalues>
+      </node>
+      <node id="Hansen, AS" label="Hansen, AS">
+        <attvalues>
+          <attvalue for="0" value="145" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.14747893442974325" />
+        </attvalues>
+      </node>
+      <node id="Backman, V" label="Backman, V">
+        <attvalues>
+          <attvalue for="0" value="56" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.12315757493125246" />
+        </attvalues>
+      </node>
       <node id="Misteli, T" label="Misteli, T">
         <attvalues>
           <attvalue for="0" value="296" />
@@ -126,11 +189,53 @@
           <attvalue for="2" value="0.14872743334555058" />
         </attvalues>
       </node>
+      <node id="Jost, D" label="Jost, D">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.14555449928701875" />
+        </attvalues>
+      </node>
+      <node id="Marti-Renom, MA" label="Marti-Renom, MA">
+        <attvalues>
+          <attvalue for="0" value="599" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="0.17056726275672973" />
+        </attvalues>
+      </node>
+      <node id="Nollmann, M" label="Nollmann, M">
+        <attvalues>
+          <attvalue for="0" value="166" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.15220643763433542" />
+        </attvalues>
+      </node>
+      <node id="Bantignies, F" label="Bantignies, F">
+        <attvalues>
+          <attvalue for="0" value="368" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.14531371434196166" />
+        </attvalues>
+      </node>
+      <node id="Cavalli, G" label="Cavalli, G">
+        <attvalues>
+          <attvalue for="0" value="1071" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.16147452264653642" />
+        </attvalues>
+      </node>
       <node id="Li, C" label="Li, C">
         <attvalues>
           <attvalue for="0" value="127" />
           <attvalue for="1" value="9" />
           <attvalue for="2" value="0.12490883799461901" />
+        </attvalues>
+      </node>
+      <node id="Chen, HB" label="Chen, HB">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.10910372963169175" />
         </attvalues>
       </node>
       <node id="Bo, XC" label="Bo, XC">
@@ -161,18 +266,11 @@
           <attvalue for="2" value="0.16688129246205807" />
         </attvalues>
       </node>
-      <node id="Cavalli, G" label="Cavalli, G">
+      <node id="Almouzni, G" label="Almouzni, G">
         <attvalues>
-          <attvalue for="0" value="1071" />
-          <attvalue for="1" value="12" />
-          <attvalue for="2" value="0.16147452264653642" />
-        </attvalues>
-      </node>
-      <node id="Marti-Renom, MA" label="Marti-Renom, MA">
-        <attvalues>
-          <attvalue for="0" value="599" />
-          <attvalue for="1" value="18" />
-          <attvalue for="2" value="0.17056726275672973" />
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.15194316163410304" />
         </attvalues>
       </node>
       <node id="Gasser, SM" label="Gasser, SM">
@@ -217,11 +315,39 @@
           <attvalue for="2" value="0.12387398599642632" />
         </attvalues>
       </node>
+      <node id="Baroux, C" label="Baroux, C">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.10572244961000851" />
+        </attvalues>
+      </node>
       <node id="Liu, C" label="Liu, C">
         <attvalues>
           <attvalue for="0" value="334" />
           <attvalue for="1" value="9" />
           <attvalue for="2" value="0.11037177988970105" />
+        </attvalues>
+      </node>
+      <node id="Berger, F" label="Berger, F">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13329611581140488" />
+        </attvalues>
+      </node>
+      <node id="Zimmer, C" label="Zimmer, C">
+        <attvalues>
+          <attvalue for="0" value="78" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.005767657213562975" />
+        </attvalues>
+      </node>
+      <node id="Koszul, R" label="Koszul, R">
+        <attvalues>
+          <attvalue for="0" value="209" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.0069367769190149305" />
         </attvalues>
       </node>
       <node id="Vaquerizas, JM" label="Vaquerizas, JM">
@@ -259,6 +385,13 @@
           <attvalue for="2" value="0.13868899201849744" />
         </attvalues>
       </node>
+      <node id="Schlick, T" label="Schlick, T">
+        <attvalues>
+          <attvalue for="0" value="98" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.1454942282728212" />
+        </attvalues>
+      </node>
       <node id="Zhang, MQ" label="Zhang, MQ">
         <attvalues>
           <attvalue for="0" value="103" />
@@ -273,11 +406,74 @@
           <attvalue for="2" value="0.13444368137702822" />
         </attvalues>
       </node>
+      <node id="Dostie, J" label="Dostie, J">
+        <attvalues>
+          <attvalue for="0" value="73" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13057174332176263" />
+        </attvalues>
+      </node>
+      <node id="Stadhouders, R" label="Stadhouders, R">
+        <attvalues>
+          <attvalue for="0" value="300" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.13444368137702822" />
+        </attvalues>
+      </node>
+      <node id="Papantonis, A" label="Papantonis, A">
+        <attvalues>
+          <attvalue for="0" value="166" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.12080748195938225" />
+        </attvalues>
+      </node>
+      <node id="Marenduzzo, D" label="Marenduzzo, D">
+        <attvalues>
+          <attvalue for="0" value="146" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.1163472057214779" />
+        </attvalues>
+      </node>
+      <node id="Rippe, K" label="Rippe, K">
+        <attvalues>
+          <attvalue for="0" value="192" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.12811980356567484" />
+        </attvalues>
+      </node>
+      <node id="Teif, VB" label="Teif, VB">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.10441859176192074" />
+        </attvalues>
+      </node>
+      <node id="Zhurkin, VB" label="Zhurkin, VB">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.1080635279959598" />
+        </attvalues>
+      </node>
       <node id="Sun, QW" label="Sun, QW">
         <attvalues>
           <attvalue for="0" value="148" />
           <attvalue for="1" value="6" />
           <attvalue for="2" value="0.1324919160176709" />
+        </attvalues>
+      </node>
+      <node id="Gilbert, N" label="Gilbert, N">
+        <attvalues>
+          <attvalue for="0" value="206" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.10281450220303241" />
+        </attvalues>
+      </node>
+      <node id="Uhlmann, F" label="Uhlmann, F">
+        <attvalues>
+          <attvalue for="0" value="124" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.1102332741267022" />
         </attvalues>
       </node>
       <node id="Phillips-Cremins, JE" label="Phillips-Cremins, JE">
@@ -294,79 +490,167 @@
           <attvalue for="2" value="0.14967776838290234" />
         </attvalues>
       </node>
+      <node id="Grigoryev, SA" label="Grigoryev, SA">
+        <attvalues>
+          <attvalue for="0" value="77" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.10720627346418406" />
+        </attvalues>
+      </node>
+      <node id="Erdel, F" label="Erdel, F">
+        <attvalues>
+          <attvalue for="0" value="191" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.10423273843929495" />
+        </attvalues>
+      </node>
     </nodes>
     <edges>
-      <edge id="0" source="Hu, M" target="Ren, B" weight="8" />
-      <edge id="1" source="Hu, M" target="Yue, F" weight="2" />
-      <edge id="2" source="Hu, M" target="Nicodemi, M" weight="2" />
-      <edge id="3" source="Ren, B" target="Dekker, J" weight="1" />
-      <edge id="4" source="Ren, B" target="Ma, J" weight="1" />
-      <edge id="5" source="Ren, B" target="Nicodemi, M" weight="2" />
-      <edge id="6" source="Yue, F" target="Ruan, YJ" weight="1" />
-      <edge id="7" source="Yue, F" target="Dekker, J" weight="1" />
-      <edge id="8" source="Yue, F" target="Ay, F" weight="1" />
-      <edge id="9" source="Nicodemi, M" target="Dekker, J" weight="1" />
-      <edge id="10" source="Nicodemi, M" target="Fraser, P" weight="1" />
-      <edge id="11" source="Nicodemi, M" target="Cavalli, G" weight="1" />
-      <edge id="12" source="Nicodemi, M" target="Pombo, A" weight="9" />
-      <edge id="13" source="Nicodemi, M" target="Mundlos, S" weight="2" />
-      <edge id="14" source="Nicodemi, M" target="Marti-Renom, MA" weight="1" />
-      <edge id="15" source="Nicodemi, M" target="Gasser, SM" weight="1" />
-      <edge id="16" source="Mirny, LA" target="Peters, JM" weight="2" />
-      <edge id="17" source="Mirny, LA" target="Dekker, J" weight="8" />
-      <edge id="18" source="Peters, JM" target="Fraser, P" weight="3" />
-      <edge id="19" source="Dekker, J" target="Corces, VG" weight="1" />
-      <edge id="20" source="Dekker, J" target="Misteli, T" weight="1" />
-      <edge id="21" source="Dekker, J" target="Ay, F" weight="1" />
-      <edge id="22" source="Shendure, J" target="Duan, ZJ" weight="6" />
-      <edge id="23" source="Shendure, J" target="Ay, F" weight="1" />
-      <edge id="24" source="Duan, ZJ" target="Ay, F" weight="1" />
-      <edge id="25" source="Duan, ZJ" target="Ma, J" weight="1" />
-      <edge id="26" source="Ay, F" target="Le Roch, KG" weight="2" />
-      <edge id="27" source="Ay, F" target="Mundlos, S" weight="2" />
-      <edge id="28" source="Li, GL" target="Ruan, YJ" weight="5" />
-      <edge id="29" source="Ruan, YJ" target="Corces, VG" weight="1" />
-      <edge id="30" source="Ruan, YJ" target="Aiden, EL" weight="2" />
-      <edge id="31" source="Ruan, YJ" target="Onuchic, JN" weight="1" />
-      <edge id="32" source="Corces, VG" target="Aiden, EL" weight="1" />
-      <edge id="33" source="Aiden, EL" target="Onuchic, JN" weight="6" />
-      <edge id="34" source="Aiden, EL" target="Vaquerizas, JM" weight="1" />
-      <edge id="35" source="Aiden, EL" target="Marti-Renom, MA" weight="2" />
-      <edge id="36" source="Aiden, EL" target="Alt, FW" weight="2" />
-      <edge id="37" source="Aiden, EL" target="Misteli, T" weight="1" />
-      <edge id="38" source="Aiden, EL" target="Maeshima, K" weight="1" />
-      <edge id="39" source="Aiden, EL" target="de Wit, E" weight="1" />
-      <edge id="40" source="Aiden, EL" target="Rowland, BD" weight="1" />
-      <edge id="41" source="Onuchic, JN" target="de Wit, E" weight="1" />
-      <edge id="42" source="Onuchic, JN" target="Rowland, BD" weight="1" />
-      <edge id="43" source="Onuchic, JN" target="Maeshima, K" weight="1" />
-      <edge id="44" source="Onuchic, JN" target="Marti-Renom, MA" weight="1" />
-      <edge id="45" source="Li, C" target="Bo, XC" weight="3" />
-      <edge id="46" source="Mundlos, S" target="Pombo, A" weight="1" />
-      <edge id="47" source="Fraser, P" target="Cavalli, G" weight="1" />
-      <edge id="48" source="Fraser, P" target="Marti-Renom, MA" weight="1" />
-      <edge id="49" source="Fraser, P" target="Gasser, SM" weight="1" />
-      <edge id="50" source="Fraser, P" target="Pombo, A" weight="1" />
-      <edge id="51" source="Cavalli, G" target="Grob, S" weight="1" />
-      <edge id="52" source="Cavalli, G" target="Marti-Renom, MA" weight="3" />
-      <edge id="53" source="Cavalli, G" target="Gasser, SM" weight="1" />
-      <edge id="54" source="Cavalli, G" target="Pombo, A" weight="1" />
-      <edge id="55" source="Marti-Renom, MA" target="Vaquerizas, JM" weight="1" />
-      <edge id="56" source="Marti-Renom, MA" target="Pombo, A" weight="1" />
-      <edge id="57" source="Marti-Renom, MA" target="Gasser, SM" weight="1" />
-      <edge id="58" source="Gasser, SM" target="Pombo, A" weight="1" />
-      <edge id="59" source="Gasser, SM" target="Blobel, GA" weight="1" />
-      <edge id="60" source="Grob, S" target="Pontvianne, F" weight="2" />
-      <edge id="61" source="Gao, YQ" target="Xie, W" weight="1" />
-      <edge id="62" source="Xie, W" target="Zhang, MQ" weight="2" />
-      <edge id="63" source="Xie, W" target="Sun, QW" weight="1" />
-      <edge id="64" source="Pontvianne, F" target="Liu, C" weight="2" />
-      <edge id="65" source="Maeshima, K" target="de Wit, E" weight="1" />
-      <edge id="66" source="Maeshima, K" target="Rowland, BD" weight="1" />
-      <edge id="67" source="de Wit, E" target="Rowland, BD" weight="5" />
-      <edge id="68" source="de Wit, E" target="de Laat, W" weight="2" />
-      <edge id="69" source="Rowland, BD" target="de Laat, W" weight="1" />
-      <edge id="70" source="Phillips-Cremins, JE" target="Blobel, GA" weight="2" />
+      <edge id="0" source="Hu, M" target="Li, Y" weight="10" />
+      <edge id="1" source="Hu, M" target="Ren, B" weight="8" />
+      <edge id="2" source="Hu, M" target="Yue, F" weight="2" />
+      <edge id="3" source="Hu, M" target="Nicodemi, M" weight="2" />
+      <edge id="4" source="Li, Y" target="Ren, B" weight="5" />
+      <edge id="5" source="Li, Y" target="Yue, F" weight="1" />
+      <edge id="6" source="Ren, B" target="Noble, WS" weight="1" />
+      <edge id="7" source="Ren, B" target="Dekker, J" weight="1" />
+      <edge id="8" source="Ren, B" target="Ma, J" weight="1" />
+      <edge id="9" source="Ren, B" target="Nicodemi, M" weight="2" />
+      <edge id="10" source="Ren, B" target="Gilbert, DM" weight="1" />
+      <edge id="11" source="Yue, F" target="Noble, WS" weight="1" />
+      <edge id="12" source="Yue, F" target="Ruan, YJ" weight="1" />
+      <edge id="13" source="Yue, F" target="Stephens, AD" weight="1" />
+      <edge id="14" source="Yue, F" target="Dekker, J" weight="1" />
+      <edge id="15" source="Yue, F" target="Ay, F" weight="1" />
+      <edge id="16" source="Nicodemi, M" target="Dekker, J" weight="1" />
+      <edge id="17" source="Nicodemi, M" target="Fraser, P" weight="1" />
+      <edge id="18" source="Nicodemi, M" target="Cavalli, G" weight="1" />
+      <edge id="19" source="Nicodemi, M" target="Pombo, A" weight="9" />
+      <edge id="20" source="Nicodemi, M" target="Mundlos, S" weight="2" />
+      <edge id="21" source="Nicodemi, M" target="Marti-Renom, MA" weight="1" />
+      <edge id="22" source="Nicodemi, M" target="Almouzni, G" weight="1" />
+      <edge id="23" source="Nicodemi, M" target="Gasser, SM" weight="1" />
+      <edge id="24" source="Nicodemi, M" target="Nollmann, M" weight="1" />
+      <edge id="25" source="Nicodemi, M" target="Dostie, J" weight="1" />
+      <edge id="26" source="Mirny, LA" target="Peters, JM" weight="2" />
+      <edge id="27" source="Mirny, LA" target="Dekker, J" weight="8" />
+      <edge id="28" source="Peters, JM" target="Fraser, P" weight="3" />
+      <edge id="29" source="Dekker, J" target="Noble, WS" weight="2" />
+      <edge id="30" source="Dekker, J" target="Corces, VG" weight="1" />
+      <edge id="31" source="Dekker, J" target="Stephens, AD" weight="1" />
+      <edge id="32" source="Dekker, J" target="Misteli, T" weight="1" />
+      <edge id="33" source="Dekker, J" target="Ay, F" weight="1" />
+      <edge id="34" source="Dekker, J" target="Gilbert, DM" weight="2" />
+      <edge id="35" source="Dekker, J" target="Hansen, AS" weight="1" />
+      <edge id="36" source="Shendure, J" target="Noble, WS" weight="1" />
+      <edge id="37" source="Shendure, J" target="Duan, ZJ" weight="6" />
+      <edge id="38" source="Shendure, J" target="Ay, F" weight="1" />
+      <edge id="39" source="Shendure, J" target="Rinn, JL" weight="1" />
+      <edge id="40" source="Noble, WS" target="Duan, ZJ" weight="1" />
+      <edge id="41" source="Noble, WS" target="Ay, F" weight="1" />
+      <edge id="42" source="Noble, WS" target="Gilbert, DM" weight="1" />
+      <edge id="43" source="Noble, WS" target="Rinn, JL" weight="1" />
+      <edge id="44" source="Noble, WS" target="Le Roch, KG" weight="2" />
+      <edge id="45" source="Duan, ZJ" target="Ay, F" weight="1" />
+      <edge id="46" source="Duan, ZJ" target="Ma, J" weight="1" />
+      <edge id="47" source="Duan, ZJ" target="Rinn, JL" weight="1" />
+      <edge id="48" source="Ay, F" target="Le Roch, KG" weight="2" />
+      <edge id="49" source="Ay, F" target="Mundlos, S" weight="2" />
+      <edge id="50" source="Ay, F" target="Gilbert, DM" weight="1" />
+      <edge id="51" source="Gilbert, DM" target="Corces, VG" weight="1" />
+      <edge id="52" source="Gilbert, DM" target="Jost, D" weight="1" />
+      <edge id="53" source="Gilbert, DM" target="Fraser, P" weight="1" />
+      <edge id="54" source="Gilbert, DM" target="Cavalli, G" weight="1" />
+      <edge id="55" source="Gilbert, DM" target="Bantignies, F" weight="1" />
+      <edge id="56" source="Gilbert, DM" target="Aiden, EL" weight="1" />
+      <edge id="57" source="Gilbert, DM" target="Ma, J" weight="1" />
+      <edge id="58" source="Gilbert, DM" target="Marti-Renom, MA" weight="1" />
+      <edge id="59" source="Li, GL" target="Li, XW" weight="6" />
+      <edge id="60" source="Li, GL" target="Ruan, YJ" weight="5" />
+      <edge id="61" source="Li, XW" target="Ruan, YJ" weight="4" />
+      <edge id="62" source="Li, XW" target="Aiden, EL" weight="2" />
+      <edge id="63" source="Li, XW" target="Onuchic, JN" weight="1" />
+      <edge id="64" source="Ruan, YJ" target="Corces, VG" weight="1" />
+      <edge id="65" source="Ruan, YJ" target="Liu, Y" weight="1" />
+      <edge id="66" source="Ruan, YJ" target="Aiden, EL" weight="2" />
+      <edge id="67" source="Ruan, YJ" target="Onuchic, JN" weight="1" />
+      <edge id="68" source="Aiden, EL" target="Corces, VG" weight="1" />
+      <edge id="69" source="Aiden, EL" target="Onuchic, JN" weight="6" />
+      <edge id="70" source="Aiden, EL" target="Vaquerizas, JM" weight="1" />
+      <edge id="71" source="Aiden, EL" target="Marti-Renom, MA" weight="2" />
+      <edge id="72" source="Aiden, EL" target="Alt, FW" weight="2" />
+      <edge id="73" source="Aiden, EL" target="Misteli, T" weight="1" />
+      <edge id="74" source="Aiden, EL" target="Maeshima, K" weight="1" />
+      <edge id="75" source="Aiden, EL" target="de Wit, E" weight="1" />
+      <edge id="76" source="Aiden, EL" target="Rowland, BD" weight="1" />
+      <edge id="77" source="Aiden, EL" target="Schlick, T" weight="1" />
+      <edge id="78" source="Onuchic, JN" target="de Wit, E" weight="1" />
+      <edge id="79" source="Onuchic, JN" target="Rowland, BD" weight="1" />
+      <edge id="80" source="Onuchic, JN" target="Maeshima, K" weight="1" />
+      <edge id="81" source="Onuchic, JN" target="Marti-Renom, MA" weight="1" />
+      <edge id="82" source="Liu, Y" target="Sun, QW" weight="2" />
+      <edge id="83" source="Stephens, AD" target="Hansen, AS" weight="1" />
+      <edge id="84" source="Stephens, AD" target="Backman, V" weight="1" />
+      <edge id="85" source="Jost, D" target="Marti-Renom, MA" weight="2" />
+      <edge id="86" source="Jost, D" target="Nollmann, M" weight="1" />
+      <edge id="87" source="Jost, D" target="Bantignies, F" weight="2" />
+      <edge id="88" source="Jost, D" target="Cavalli, G" weight="3" />
+      <edge id="89" source="Marti-Renom, MA" target="Fraser, P" weight="1" />
+      <edge id="90" source="Marti-Renom, MA" target="Cavalli, G" weight="3" />
+      <edge id="91" source="Marti-Renom, MA" target="Bantignies, F" weight="2" />
+      <edge id="92" source="Marti-Renom, MA" target="Stadhouders, R" weight="4" />
+      <edge id="93" source="Marti-Renom, MA" target="Vaquerizas, JM" weight="1" />
+      <edge id="94" source="Marti-Renom, MA" target="Nollmann, M" weight="2" />
+      <edge id="95" source="Marti-Renom, MA" target="Pombo, A" weight="1" />
+      <edge id="96" source="Marti-Renom, MA" target="Almouzni, G" weight="1" />
+      <edge id="97" source="Marti-Renom, MA" target="Gasser, SM" weight="1" />
+      <edge id="98" source="Nollmann, M" target="Fraser, P" weight="1" />
+      <edge id="99" source="Nollmann, M" target="Cavalli, G" weight="4" />
+      <edge id="100" source="Nollmann, M" target="Bantignies, F" weight="2" />
+      <edge id="101" source="Nollmann, M" target="Pombo, A" weight="1" />
+      <edge id="102" source="Nollmann, M" target="Almouzni, G" weight="1" />
+      <edge id="103" source="Nollmann, M" target="Gasser, SM" weight="1" />
+      <edge id="104" source="Bantignies, F" target="Cavalli, G" weight="8" />
+      <edge id="105" source="Cavalli, G" target="Fraser, P" weight="1" />
+      <edge id="106" source="Cavalli, G" target="Grob, S" weight="1" />
+      <edge id="107" source="Cavalli, G" target="Almouzni, G" weight="1" />
+      <edge id="108" source="Cavalli, G" target="Gasser, SM" weight="1" />
+      <edge id="109" source="Cavalli, G" target="Pombo, A" weight="1" />
+      <edge id="110" source="Li, C" target="Chen, HB" weight="3" />
+      <edge id="111" source="Li, C" target="Bo, XC" weight="3" />
+      <edge id="112" source="Chen, HB" target="Bo, XC" weight="6" />
+      <edge id="113" source="Mundlos, S" target="Pombo, A" weight="1" />
+      <edge id="114" source="Fraser, P" target="Almouzni, G" weight="1" />
+      <edge id="115" source="Fraser, P" target="Gasser, SM" weight="1" />
+      <edge id="116" source="Fraser, P" target="Pombo, A" weight="1" />
+      <edge id="117" source="Almouzni, G" target="Pombo, A" weight="1" />
+      <edge id="118" source="Almouzni, G" target="Gasser, SM" weight="1" />
+      <edge id="119" source="Gasser, SM" target="Pombo, A" weight="1" />
+      <edge id="120" source="Gasser, SM" target="Blobel, GA" weight="1" />
+      <edge id="121" source="Pombo, A" target="Dostie, J" weight="1" />
+      <edge id="122" source="Grob, S" target="Pontvianne, F" weight="2" />
+      <edge id="123" source="Grob, S" target="Baroux, C" weight="1" />
+      <edge id="124" source="Gao, YQ" target="Xie, W" weight="1" />
+      <edge id="125" source="Xie, W" target="Zhang, MQ" weight="2" />
+      <edge id="126" source="Xie, W" target="Sun, QW" weight="1" />
+      <edge id="127" source="Pontvianne, F" target="Liu, C" weight="2" />
+      <edge id="128" source="Liu, C" target="Berger, F" weight="2" />
+      <edge id="129" source="Zimmer, C" target="Koszul, R" weight="1" />
+      <edge id="130" source="Maeshima, K" target="de Wit, E" weight="1" />
+      <edge id="131" source="Maeshima, K" target="Rowland, BD" weight="1" />
+      <edge id="132" source="de Wit, E" target="Rowland, BD" weight="5" />
+      <edge id="133" source="de Wit, E" target="de Laat, W" weight="2" />
+      <edge id="134" source="Rowland, BD" target="de Laat, W" weight="1" />
+      <edge id="135" source="Papantonis, A" target="Marenduzzo, D" weight="2" />
+      <edge id="136" source="Papantonis, A" target="Rippe, K" weight="1" />
+      <edge id="137" source="Marenduzzo, D" target="Rippe, K" weight="1" />
+      <edge id="138" source="Marenduzzo, D" target="Gilbert, N" weight="4" />
+      <edge id="139" source="Marenduzzo, D" target="Uhlmann, F" weight="1" />
+      <edge id="140" source="Rippe, K" target="Teif, VB" weight="2" />
+      <edge id="141" source="Rippe, K" target="Erdel, F" weight="3" />
+      <edge id="142" source="Teif, VB" target="Zhurkin, VB" weight="1" />
+      <edge id="143" source="Zhurkin, VB" target="Grigoryev, SA" weight="3" />
+      <edge id="144" source="Phillips-Cremins, JE" target="Blobel, GA" weight="2" />
     </edges>
   </graph>
 </gexf>

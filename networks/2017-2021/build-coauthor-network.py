@@ -40,7 +40,7 @@ def initial_coauthors(by_pubs, correspondings):
     # filter by degree, cited times, or number of works
     rnodes = []
     for n in G:
-        if (G.node[n]['cited'] > 50) and (G.node[n]['nworks'] > 5):
+        if (G.node[n]['cited'] > 50) and (G.node[n]['nworks'] > 4):
             continue
         rnodes.append(n)
     G.remove_nodes_from(rnodes)
