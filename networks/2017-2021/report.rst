@@ -87,7 +87,7 @@ List of labs
      - 423
      - 9
    * - 18
-     - `Frederic Bantignies (Giacomo Cavalli's lab)`_
+     - Frederic Bantignies (Giacomo Cavalli's lab)
      - 368
      - 5
    * - 19
