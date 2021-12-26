@@ -87,59 +87,156 @@ List of labs
      - 423
      - 9
    * - 18
+     - `Frederic Bantignies (Giacomo Cavalli's lab)`_
+     - 368
+     - 5
+   * - 19
      - `Chang Liu <https://epigenetics.uni-hohenheim.de/en/english>`_
      - 334
      - 9
-   * - 19
+   * - 20
+     - `Andrew D. Stephens <https://www.bio.umass.edu/biology/stephens/>`_
+     - 334
+     - 5
+   * - 21
      - `Feng Yue <http://yuelab.org/>`_
      - 330
      - 7
-   * - 20
+   * - 22
      - `Jennifer Phillips-Cremins <http://creminslab.com/>`_
      - 328
      - 9
-   * - 21
+   * - 23
      - `Kazuhiro Maeshima <http://maeshima-lab.sakuraweb.com/>`_
      - 319
      - 9
-   * - 22
+   * - 24
      - `Zhijun Duan <https://hematology.uw.edu/faculty/zhijun-duan-phd>`_
      - 312
      - 7
-   * - 23
+   * - 25
      - `Juanma Vaquerizas <https://www.vaquerizaslab.org/>`_
      - 305
      - 8
-   * - 24
+   * - 26
+     - `Ralph Stadhouders <https://bcellnetwork.nl/partners/fundamental-partner/ralph-stadhouders/>`_
+     - 300
+     - 5
+   * - 27
      - `Tom Misteli <https://ccr.cancer.gov/staff-directory/tom-misteli>`_
      - 296
      - 7
-   * - 25
+   * - 28
+     - `Romain Koszul <https://research.pasteur.fr/en/team/spatial-regulation-of-genomes/>`_
+     - 209
+     - 11
+   * - 29
+     - `Nick Gilbert <https://www.ed.ac.uk/mrc-human-genetics-unit/research/gilbert-group>`_
+     - 206
+     - 8
+   * - 30
+     - `Karsten Rippe <https://malone.bioquant.uni-heidelberg.de/people/rippe/index-rippe.html>`_
+     - 192
+     - 5
+   * - 31
+     - `Fabian Erdel <https://cbi-toulouse.fr/eng/equipe-erdel>`_
+     - 191
+     - 5
+   * - 32
      - `Guoliang Li <http://www.guolianglab.org/subpages/OUR%20TEAM/group%20members.php>`_
      - 187
      - 16
-   * - 26
+   * - 33
+     - `John Rinn <https://www.rinnlab.com/>`_
+     - 173
+     - 5
+   * - 34
      - `Frederick Alt <https://www.childrenshospital.org/research/labs/alt-laboratory>`_
      - 171
      - 7
-   * - 27
+   * - 35
      - Yijun Ruan
      - 168
      - 9
-   * - 28
+   * - 36
+     - `Argyris Papantonis <https://pathologie.umg.eu/forschung/translational-epigenetics-laboratory/>`_
+     - 166
+     - 11
+   * - 37
+     - `Marcelo Nollmann <https://www.nollmannlab.org/>`_
+     - 166
+     - 5
+   * - 38
      - `Jose Onuchic <https://onuchic.rice.edu/index.html>`_
      - 164
      - 6
-   * - 29
+   * - 39
      - `Qianwen Sun <http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2571.shtml>`_
      - 148
      - 6
-   * - 30
+   * - 40
+     - `Davide Marenduzzo <https://www.ph.ed.ac.uk/people/davide-marenduzzo>`_
+     - 146
+     - 5
+   * - 41
+     - `Anders Sejr Hansen <https://www.ashansenlab.com/>`_
+     - 145
+     - 5
+   * - 42
      - `Ferhat Ay <https://www.lji.org/labs/ay/>`_
      - 132
      - 6
-   * - 31
+   * - 43
      - `Cheng Li <http://3d-genome.life/>`_
      - 127
      - 9
+   * - 44
+     - `Frank Uhlmann <https://www.crick.ac.uk/research/labs/frank-uhlmann>`_
+     - 124
+     - 8
+   * - 45
+     - `Wouter de Laat <https://www.hubrecht.eu/research-groups/de-laat-group/>`_
+     - 122
+     - 6
+   * - 46
+     - `Frederic Berger <https://www.oeaw.ac.at/gmi/research/research-groups/frederic-berger>`_
+     - 119
+     - 5
+   * - 47
+     - `Dave Gilbert <https://sdbri.org/people/dave-gilbert/>`_
+     - 118
+     - 5
+   * - 48
+     - `Gerd Blobel <https://hosting.med.upenn.edu/epigenetics/faculty-member/gerd-blobel/>`_
+     - 114
+     - 7
+   * - 49
+     - `Yang Liu <https://sites.pitt.edu/~liuy/people.html>`_
+     - 114
+     - 5
+   * - 50
+     - `Xingwang Li <http://lst.hzau.edu.cn/info/1025/1698.htm>`_
+     - 104
+     - 5
+   * - 51
+     - `Michael Zhang <https://labs.utdallas.edu/zhanglab/>`_
+     - 103
+     - 7
+   * - 52
+     - `Tamar Schlick <http://www.biomath.nyu.edu/>`_
+     - 98
+     - 5
+   * - 53
+     - `William Noble <https://noble.gs.washington.edu/>`_
+     - 95
+     - 5
+   * - 54
+     - `Daniel Jost <http://perso.ens-lyon.fr/daniel.jost/DanielJost/Home.html>`_
+     - 95
+     - 5
+   * - 55
+     - `Ming Hu <https://www.lerner.ccf.org/qhs/hum/lab/>`_
+     - 90
+     - 7
+
     
