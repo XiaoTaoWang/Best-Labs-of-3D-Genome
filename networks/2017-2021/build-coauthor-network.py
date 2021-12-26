@@ -28,6 +28,7 @@ def initial_coauthors(by_pubs, correspondings):
     for n in G:
         G.node[n]['cited'] = 0
         G.node[n]['nworks'] = 0
+        G.node[n]['centrality'] = deg[n]
     
     for pub in by_pubs:
         authors = pub['reprint authors']
@@ -37,18 +38,21 @@ def initial_coauthors(by_pubs, correspondings):
                 G.node[i]['nworks'] += 1
     
     # filter by degree, cited times, or number of works
-    degrees = G.degree(list(G))
     rnodes = []
-    for n in degrees:
-        if (degrees[n] >= 10) or ((G.node[n]['cited'] > 100) and (G.node[n]['nworks'] > 5)):
+    for n in G:
+        if (G.node[n]['cited'] > 50) and (G.node[n]['nworks'] > 5):
             continue
         rnodes.append(n)
     G.remove_nodes_from(rnodes)
-
-    # filter again by nworks and cited
-    rnodes = [n for n in G if ((G.node[n]['cited']<50) or (G.node[n]['nworks']<3))]
+    
+    degrees = G.degree(list(G))
+    rnodes = []
+    for n in degrees:
+        if (degrees[n] >= 1):
+            continue
+        rnodes.append(n)
     G.remove_nodes_from(rnodes)
-
+    '''
     # only outputs the largest components
     components = nx.connected_component_subgraphs(G)
     graph = None
@@ -63,11 +67,16 @@ def initial_coauthors(by_pubs, correspondings):
     graph = nx.relabel_nodes(graph, author_map, copy=True)
     
     nx.write_gexf(graph, 'largest-component.gexf')
+    '''
+    graph = G
+    author_map = {n:correspondings[n] for n in graph}
+    graph = nx.relabel_nodes(graph, author_map, copy=True)
+    nx.write_gexf(graph, '2017-2021.coauthors.gexf')
 
     # sorted
     metrics = []
     for n in graph:
-        metrics.append((ndeg[n], graph.node[n]['cited'], graph.node[n]['nworks'], n))
+        metrics.append((graph.node[n]['cited'], graph.node[n]['nworks'], ndeg[n], n))
     metrics.sort(reverse=True)
     
     return graph, metrics, degrees

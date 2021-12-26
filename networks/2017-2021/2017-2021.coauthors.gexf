@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cited" type="long" />
+      <attribute id="1" title="nworks" type="long" />
+      <attribute id="2" title="centrality" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Hu, M" label="Hu, M">
+        <attvalues>
+          <attvalue for="0" value="90" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.1511262629156401" />
+        </attvalues>
+      </node>
+      <node id="Ren, B" label="Ren, B">
+        <attvalues>
+          <attvalue for="0" value="517" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.16354133641092075" />
+        </attvalues>
+      </node>
+      <node id="Yue, F" label="Yue, F">
+        <attvalues>
+          <attvalue for="0" value="330" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.15377179924676732" />
+        </attvalues>
+      </node>
+      <node id="Nicodemi, M" label="Nicodemi, M">
+        <attvalues>
+          <attvalue for="0" value="511" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0.16872439917352378" />
+        </attvalues>
+      </node>
+      <node id="Mirny, LA" label="Mirny, LA">
+        <attvalues>
+          <attvalue for="0" value="1425" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="0.15509537024006326" />
+        </attvalues>
+      </node>
+      <node id="Peters, JM" label="Peters, JM">
+        <attvalues>
+          <attvalue for="0" value="544" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.14228328053406086" />
+        </attvalues>
+      </node>
+      <node id="Dekker, J" label="Dekker, J">
+        <attvalues>
+          <attvalue for="0" value="601" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.17236623069848578" />
+        </attvalues>
+      </node>
+      <node id="Shendure, J" label="Shendure, J">
+        <attvalues>
+          <attvalue for="0" value="534" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.13488236517422775" />
+        </attvalues>
+      </node>
+      <node id="Duan, ZJ" label="Duan, ZJ">
+        <attvalues>
+          <attvalue for="0" value="312" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.1341357363156569" />
+        </attvalues>
+      </node>
+      <node id="Ay, F" label="Ay, F">
+        <attvalues>
+          <attvalue for="0" value="132" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.1565116085874669" />
+        </attvalues>
+      </node>
+      <node id="Ma, J" label="Ma, J">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.1429198947646383" />
+        </attvalues>
+      </node>
+      <node id="Li, GL" label="Li, GL">
+        <attvalues>
+          <attvalue for="0" value="187" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0.13987601961738189" />
+        </attvalues>
+      </node>
+      <node id="Ruan, YJ" label="Ruan, YJ">
+        <attvalues>
+          <attvalue for="0" value="168" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.15530102155971856" />
+        </attvalues>
+      </node>
+      <node id="Corces, VG" label="Corces, VG">
+        <attvalues>
+          <attvalue for="0" value="749" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.15367092118034692" />
+        </attvalues>
+      </node>
+      <node id="Aiden, EL" label="Aiden, EL">
+        <attvalues>
+          <attvalue for="0" value="1529" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.16978427701322216" />
+        </attvalues>
+      </node>
+      <node id="Onuchic, JN" label="Onuchic, JN">
+        <attvalues>
+          <attvalue for="0" value="164" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.15530102155971856" />
+        </attvalues>
+      </node>
+      <node id="Misteli, T" label="Misteli, T">
+        <attvalues>
+          <attvalue for="0" value="296" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.14872743334555058" />
+        </attvalues>
+      </node>
+      <node id="Li, C" label="Li, C">
+        <attvalues>
+          <attvalue for="0" value="127" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.12490883799461901" />
+        </attvalues>
+      </node>
+      <node id="Bo, XC" label="Bo, XC">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.10910372963169175" />
+        </attvalues>
+      </node>
+      <node id="Le Roch, KG" label="Le Roch, KG">
+        <attvalues>
+          <attvalue for="0" value="77" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.1249310440102625" />
+        </attvalues>
+      </node>
+      <node id="Mundlos, S" label="Mundlos, S">
+        <attvalues>
+          <attvalue for="0" value="533" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.13773757792193778" />
+        </attvalues>
+      </node>
+      <node id="Fraser, P" label="Fraser, P">
+        <attvalues>
+          <attvalue for="0" value="564" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.16688129246205807" />
+        </attvalues>
+      </node>
+      <node id="Cavalli, G" label="Cavalli, G">
+        <attvalues>
+          <attvalue for="0" value="1071" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.16147452264653642" />
+        </attvalues>
+      </node>
+      <node id="Marti-Renom, MA" label="Marti-Renom, MA">
+        <attvalues>
+          <attvalue for="0" value="599" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="0.17056726275672973" />
+        </attvalues>
+      </node>
+      <node id="Gasser, SM" label="Gasser, SM">
+        <attvalues>
+          <attvalue for="0" value="423" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.1586672211690509" />
+        </attvalues>
+      </node>
+      <node id="Pombo, A" label="Pombo, A">
+        <attvalues>
+          <attvalue for="0" value="477" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.15367092118034692" />
+        </attvalues>
+      </node>
+      <node id="Grob, S" label="Grob, S">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.12786337746683524" />
+        </attvalues>
+      </node>
+      <node id="Gao, YQ" label="Gao, YQ">
+        <attvalues>
+          <attvalue for="0" value="76" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.12546636717688386" />
+        </attvalues>
+      </node>
+      <node id="Xie, W" label="Xie, W">
+        <attvalues>
+          <attvalue for="0" value="531" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.14265877437225466" />
+        </attvalues>
+      </node>
+      <node id="Pontvianne, F" label="Pontvianne, F">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.12387398599642632" />
+        </attvalues>
+      </node>
+      <node id="Liu, C" label="Liu, C">
+        <attvalues>
+          <attvalue for="0" value="334" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.11037177988970105" />
+        </attvalues>
+      </node>
+      <node id="Vaquerizas, JM" label="Vaquerizas, JM">
+        <attvalues>
+          <attvalue for="0" value="305" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.14324034295917784" />
+        </attvalues>
+      </node>
+      <node id="Alt, FW" label="Alt, FW">
+        <attvalues>
+          <attvalue for="0" value="171" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.1368257637378751" />
+        </attvalues>
+      </node>
+      <node id="Maeshima, K" label="Maeshima, K">
+        <attvalues>
+          <attvalue for="0" value="319" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.13923858184222837" />
+        </attvalues>
+      </node>
+      <node id="de Wit, E" label="de Wit, E">
+        <attvalues>
+          <attvalue for="0" value="526" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.13896324353524353" />
+        </attvalues>
+      </node>
+      <node id="Rowland, BD" label="Rowland, BD">
+        <attvalues>
+          <attvalue for="0" value="461" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.13868899201849744" />
+        </attvalues>
+      </node>
+      <node id="Zhang, MQ" label="Zhang, MQ">
+        <attvalues>
+          <attvalue for="0" value="103" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.13390570170688387" />
+        </attvalues>
+      </node>
+      <node id="de Laat, W" label="de Laat, W">
+        <attvalues>
+          <attvalue for="0" value="122" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.13444368137702822" />
+        </attvalues>
+      </node>
+      <node id="Sun, QW" label="Sun, QW">
+        <attvalues>
+          <attvalue for="0" value="148" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.1324919160176709" />
+        </attvalues>
+      </node>
+      <node id="Phillips-Cremins, JE" label="Phillips-Cremins, JE">
+        <attvalues>
+          <attvalue for="0" value="328" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.12898992704804085" />
+        </attvalues>
+      </node>
+      <node id="Blobel, GA" label="Blobel, GA">
+        <attvalues>
+          <attvalue for="0" value="114" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.14967776838290234" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Hu, M" target="Ren, B" weight="8" />
+      <edge id="1" source="Hu, M" target="Yue, F" weight="2" />
+      <edge id="2" source="Hu, M" target="Nicodemi, M" weight="2" />
+      <edge id="3" source="Ren, B" target="Dekker, J" weight="1" />
+      <edge id="4" source="Ren, B" target="Ma, J" weight="1" />
+      <edge id="5" source="Ren, B" target="Nicodemi, M" weight="2" />
+      <edge id="6" source="Yue, F" target="Ruan, YJ" weight="1" />
+      <edge id="7" source="Yue, F" target="Dekker, J" weight="1" />
+      <edge id="8" source="Yue, F" target="Ay, F" weight="1" />
+      <edge id="9" source="Nicodemi, M" target="Dekker, J" weight="1" />
+      <edge id="10" source="Nicodemi, M" target="Fraser, P" weight="1" />
+      <edge id="11" source="Nicodemi, M" target="Cavalli, G" weight="1" />
+      <edge id="12" source="Nicodemi, M" target="Pombo, A" weight="9" />
+      <edge id="13" source="Nicodemi, M" target="Mundlos, S" weight="2" />
+      <edge id="14" source="Nicodemi, M" target="Marti-Renom, MA" weight="1" />
+      <edge id="15" source="Nicodemi, M" target="Gasser, SM" weight="1" />
+      <edge id="16" source="Mirny, LA" target="Peters, JM" weight="2" />
+      <edge id="17" source="Mirny, LA" target="Dekker, J" weight="8" />
+      <edge id="18" source="Peters, JM" target="Fraser, P" weight="3" />
+      <edge id="19" source="Dekker, J" target="Corces, VG" weight="1" />
+      <edge id="20" source="Dekker, J" target="Misteli, T" weight="1" />
+      <edge id="21" source="Dekker, J" target="Ay, F" weight="1" />
+      <edge id="22" source="Shendure, J" target="Duan, ZJ" weight="6" />
+      <edge id="23" source="Shendure, J" target="Ay, F" weight="1" />
+      <edge id="24" source="Duan, ZJ" target="Ay, F" weight="1" />
+      <edge id="25" source="Duan, ZJ" target="Ma, J" weight="1" />
+      <edge id="26" source="Ay, F" target="Le Roch, KG" weight="2" />
+      <edge id="27" source="Ay, F" target="Mundlos, S" weight="2" />
+      <edge id="28" source="Li, GL" target="Ruan, YJ" weight="5" />
+      <edge id="29" source="Ruan, YJ" target="Corces, VG" weight="1" />
+      <edge id="30" source="Ruan, YJ" target="Aiden, EL" weight="2" />
+      <edge id="31" source="Ruan, YJ" target="Onuchic, JN" weight="1" />
+      <edge id="32" source="Corces, VG" target="Aiden, EL" weight="1" />
+      <edge id="33" source="Aiden, EL" target="Onuchic, JN" weight="6" />
+      <edge id="34" source="Aiden, EL" target="Vaquerizas, JM" weight="1" />
+      <edge id="35" source="Aiden, EL" target="Marti-Renom, MA" weight="2" />
+      <edge id="36" source="Aiden, EL" target="Alt, FW" weight="2" />
+      <edge id="37" source="Aiden, EL" target="Misteli, T" weight="1" />
+      <edge id="38" source="Aiden, EL" target="Maeshima, K" weight="1" />
+      <edge id="39" source="Aiden, EL" target="de Wit, E" weight="1" />
+      <edge id="40" source="Aiden, EL" target="Rowland, BD" weight="1" />
+      <edge id="41" source="Onuchic, JN" target="de Wit, E" weight="1" />
+      <edge id="42" source="Onuchic, JN" target="Rowland, BD" weight="1" />
+      <edge id="43" source="Onuchic, JN" target="Maeshima, K" weight="1" />
+      <edge id="44" source="Onuchic, JN" target="Marti-Renom, MA" weight="1" />
+      <edge id="45" source="Li, C" target="Bo, XC" weight="3" />
+      <edge id="46" source="Mundlos, S" target="Pombo, A" weight="1" />
+      <edge id="47" source="Fraser, P" target="Cavalli, G" weight="1" />
+      <edge id="48" source="Fraser, P" target="Marti-Renom, MA" weight="1" />
+      <edge id="49" source="Fraser, P" target="Gasser, SM" weight="1" />
+      <edge id="50" source="Fraser, P" target="Pombo, A" weight="1" />
+      <edge id="51" source="Cavalli, G" target="Grob, S" weight="1" />
+      <edge id="52" source="Cavalli, G" target="Marti-Renom, MA" weight="3" />
+      <edge id="53" source="Cavalli, G" target="Gasser, SM" weight="1" />
+      <edge id="54" source="Cavalli, G" target="Pombo, A" weight="1" />
+      <edge id="55" source="Marti-Renom, MA" target="Vaquerizas, JM" weight="1" />
+      <edge id="56" source="Marti-Renom, MA" target="Pombo, A" weight="1" />
+      <edge id="57" source="Marti-Renom, MA" target="Gasser, SM" weight="1" />
+      <edge id="58" source="Gasser, SM" target="Pombo, A" weight="1" />
+      <edge id="59" source="Gasser, SM" target="Blobel, GA" weight="1" />
+      <edge id="60" source="Grob, S" target="Pontvianne, F" weight="2" />
+      <edge id="61" source="Gao, YQ" target="Xie, W" weight="1" />
+      <edge id="62" source="Xie, W" target="Zhang, MQ" weight="2" />
+      <edge id="63" source="Xie, W" target="Sun, QW" weight="1" />
+      <edge id="64" source="Pontvianne, F" target="Liu, C" weight="2" />
+      <edge id="65" source="Maeshima, K" target="de Wit, E" weight="1" />
+      <edge id="66" source="Maeshima, K" target="Rowland, BD" weight="1" />
+      <edge id="67" source="de Wit, E" target="Rowland, BD" weight="5" />
+      <edge id="68" source="de Wit, E" target="de Laat, W" weight="2" />
+      <edge id="69" source="Rowland, BD" target="de Laat, W" weight="1" />
+      <edge id="70" source="Phillips-Cremins, JE" target="Blobel, GA" weight="2" />
+    </edges>
+  </graph>
+</gexf>
