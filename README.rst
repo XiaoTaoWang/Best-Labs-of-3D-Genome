@@ -14,7 +14,7 @@ The pipeline is quite simple:
 
 Collaboration Networks
 ======================
-I plan to update the network annually and each update will include data from last 5 years.
+I plan to update the network every two years and each update will include data from last 5 years.
 
 - `Year 2008 - 2017 <networks/2008-2017/report.rst>`_
 - `Year 2015 - 2019 <networks/2015-2019/report.rst>`_
