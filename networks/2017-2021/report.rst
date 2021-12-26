@@ -142,6 +142,4 @@ List of labs
      - `Cheng Li <http://3d-genome.life/>`_
      - 127
      - 9
-   * - 32
-     - ``_
     
